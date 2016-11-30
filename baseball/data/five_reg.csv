@@ -20,7 +20,6 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1996,Rockies,0.287,0.185,17.6,5.9,35.7,NL,83,79,N,N,N,N,False
 1999,Yankees,0.282,0.171,25.9,4.7,-39.9,AL,98,64,Y,N,Y,Y,True
 1996,Rangers,0.284,0.184,27.0,4.5,3.2,AL,90,72,Y,N,N,N,True
-1976,Reds,0.28,0.144,45.9,6.1,39.2,NL,102,60,Y,,Y,Y,True
 2000,White Sox,0.286,0.184,25.9,5.1,-9.6,AL,95,67,Y,N,N,N,True
 1998,Rangers,0.289,0.173,27.6,4.4,-0.4,AL,88,74,Y,N,N,N,True
 1995,Rockies,0.282,0.189,12.4,5.4,1.8,NL,77,67,N,Y,N,N,True
@@ -30,7 +29,6 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2000,Angels,0.28,0.193,31.3,4.3,52.7,AL,82,80,N,N,N,N,False
 1996,Red Sox,0.283,0.173,16.8,4.5,-97.0,AL,85,77,N,N,N,N,False
 2006,Yankees,0.285,0.177,24.2,4.9,-91.9,AL,97,65,Y,N,N,N,True
-1977,Red Sox,0.282,0.183,29.3,4.6,-0.5,AL,97,64,N,,N,N,False
 1996,Orioles,0.274,0.198,23.1,4.4,-51.1,AL,88,74,N,Y,N,N,True
 2008,Rangers,0.283,0.179,25.6,4.9,-73.4,AL,79,83,N,N,N,N,False
 1999,Rockies,0.288,0.184,1.3,4.5,-45.2,NL,72,90,N,N,N,N,False
@@ -41,7 +39,6 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2000,Cardinals,0.27,0.185,31.2,4.3,82.1,NL,95,67,Y,N,N,N,True
 2000,Rockies,0.294,0.161,15.5,5.5,100.6,NL,82,80,N,N,N,N,False
 1999,Blue Jays,0.28,0.177,23.7,4.3,-10.1,AL,84,78,N,N,N,N,False
-1979,Red Sox,0.283,0.173,28.1,4.0,16.9,AL,91,69,N,,N,N,False
 1998,Mariners,0.276,0.192,26.0,4.8,-30.5,AL,76,85,N,N,N,N,False
 1998,Red Sox,0.28,0.183,31.1,4.6,44.2,AL,92,70,N,Y,N,N,True
 2005,Red Sox,0.281,0.174,27.6,3.9,-33.9,AL,95,67,N,Y,N,N,True
@@ -61,7 +58,6 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1997,Yankees,0.286,0.15,22.8,4.1,-83.6,AL,96,66,N,Y,N,N,True
 1999,Mets,0.279,0.156,29.8,4.3,57.0,NL,97,66,N,Y,N,N,True
 2004,Yankees,0.268,0.189,21.7,4.3,-88.1,AL,101,61,Y,N,N,N,True
-1979,Brewers,0.28,0.168,30.5,4.7,-15.4,AL,95,66,N,,N,N,False
 2000,Yankees,0.277,0.173,20.6,4.3,-39.5,AL,87,74,Y,N,Y,Y,True
 2005,Yankees,0.276,0.174,17.4,4.0,-160.9,AL,95,67,Y,N,N,N,True
 1999,Orioles,0.279,0.169,28.9,4.3,21.7,AL,78,84,N,N,N,N,False
@@ -72,19 +68,14 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2006,Blue Jays,0.284,0.179,25.4,4.1,3.4,AL,87,75,N,N,N,N,False
 2008,Cubs,0.278,0.165,31.0,4.2,70.9,NL,97,64,Y,N,N,N,True
 1999,Red Sox,0.278,0.17,24.2,4.4,23.0,AL,94,68,N,Y,N,N,True
-1982,Brewers,0.279,0.176,35.9,4.7,-4.5,AL,95,67,Y,,Y,N,True
 1996,Yankees,0.288,0.148,18.6,4.5,-66.6,AL,92,70,Y,N,Y,Y,True
 1999,Diamondbacks,0.277,0.182,27.3,5.4,84.6,NL,100,62,Y,N,N,N,True
 1996,Brewers,0.279,0.162,19.4,4.9,-13.2,AL,80,82,N,N,N,N,False
 1988,Red Sox,0.283,0.137,31.7,4.3,-15.4,AL,89,73,Y,,N,N,True
 1987,Tigers,0.272,0.179,30.4,4.6,-13.2,AL,98,64,Y,,N,N,True
-1979,Angels,0.282,0.148,24.9,4.8,-68.2,AL,88,74,Y,,N,N,True
 2011,Rangers,0.283,0.177,34.6,5.1,17.2,AL,96,66,Y,N,Y,N,True
-1984,Red Sox,0.283,0.158,24.8,3.9,-42.7,AL,86,76,N,,N,N,False
 1999,Giants,0.271,0.163,22.4,4.3,-1.1,NL,86,76,N,N,N,N,False
-1982,Angels,0.274,0.159,34.1,3.4,31.3,AL,93,69,Y,,N,N,True
 2003,Blue Jays,0.279,0.175,18.4,3.9,-88.7,AL,86,76,N,N,N,N,False
-1977,Phillies,0.279,0.169,38.5,5.3,95.8,NL,101,61,Y,,N,N,True
 2001,Mariners,0.288,0.157,44.4,5.7,84.6,AL,116,46,Y,N,N,N,True
 1993,Blue Jays,0.279,0.157,28.6,5.5,-3.7,AL,95,67,Y,,Y,Y,True
 1998,Orioles,0.273,0.174,24.9,3.7,-29.3,AL,79,83,N,N,N,N,False
@@ -94,28 +85,21 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1998,Indians,0.273,0.176,26.6,4.9,20.9,AL,89,73,Y,N,N,N,True
 1998,Astros,0.28,0.156,35.1,5.1,44.5,NL,102,60,Y,N,N,N,True
 1996,Athletics,0.265,0.187,17.6,3.7,-73.0,AL,78,84,N,N,N,N,False
-1977,Yankees,0.281,0.163,37.0,4.6,27.7,AL,100,62,Y,,Y,Y,True
 2013,Red Sox,0.277,0.169,35.9,5.2,6.7,AL,97,65,Y,N,Y,Y,True
 2006,Indians,0.28,0.177,21.2,4.2,-61.4,AL,78,84,N,N,N,N,False
-1978,Brewers,0.276,0.155,34.7,4.7,3.1,AL,93,69,N,,N,N,False
 1999,Mariners,0.269,0.186,18.3,4.6,-71.7,AL,79,83,N,N,N,N,False
-1977,White Sox,0.278,0.166,19.0,4.1,-116.7,AL,90,72,N,,N,N,False
 2003,Cardinals,0.279,0.175,34.4,4.5,53.5,NL,85,77,N,N,N,N,False
 2010,Yankees,0.267,0.169,32.3,4.8,-8.1,AL,95,67,N,Y,N,N,True
 2009,Angels,0.285,0.156,28.7,5.0,-4.5,AL,97,65,Y,N,N,N,True
 1994,Reds,0.286,0.164,21.6,5.6,31.8,NL,66,48,,,,,False
 1998,Braves,0.272,0.181,37.6,4.6,124.6,NL,106,56,Y,N,N,N,True
 2007,Rockies,0.28,0.158,23.1,4.9,41.6,NL,90,73,N,Y,Y,N,True
-1975,Red Sox,0.275,0.142,29.4,4.2,47.8,AL,95,65,Y,,Y,N,True
 2006,White Sox,0.28,0.184,19.3,4.2,-34.1,AL,90,72,N,N,N,N,False
-1980,Red Sox,0.283,0.153,24.7,4.1,-12.5,AL,83,77,N,,N,N,False
 1994,Rangers,0.28,0.157,9.6,5.0,-56.5,AL,52,62,,,,,False
-1984,Tigers,0.271,0.161,35.5,4.6,27.9,AL,104,58,Y,,Y,Y,True
 1995,White Sox,0.28,0.151,21.0,5.0,-35.5,AL,68,76,N,N,N,N,False
 2010,Red Sox,0.268,0.183,24.4,4.1,-41.3,AL,89,73,N,N,N,N,False
 2004,Indians,0.276,0.168,26.8,4.4,-18.2,AL,80,82,N,N,N,N,False
 1994,Orioles,0.272,0.166,20.8,4.8,41.4,AL,63,49,,,,,False
-1975,Reds,0.271,0.13,43.2,5.6,99.1,NL,108,54,Y,,Y,Y,True
 2011,Yankees,0.263,0.181,33.0,5.2,6.3,AL,97,65,Y,N,N,N,True
 1995,Yankees,0.276,0.144,21.9,4.2,-9.3,AL,79,65,N,Y,N,N,True
 1986,Yankees,0.271,0.159,30.6,4.5,-26.0,AL,90,72,N,,N,N,False
@@ -123,23 +107,16 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2015,Blue Jays,0.269,0.188,34.6,4.6,-9.1,AL,93,69,Y,N,N,N,True
 1999,Reds,0.272,0.179,30.8,5.5,137.4,NL,96,67,N,N,N,N,False
 1996,Twins,0.288,0.137,21.9,5.3,12.8,AL,78,84,N,N,N,N,False
-1985,Red Sox,0.282,0.147,27.1,4.1,-25.8,AL,81,81,N,,N,N,False
 1993,Phillies,0.274,0.153,27.7,5.1,-7.5,NL,97,65,Y,,Y,N,True
 2004,Cardinals,0.278,0.182,33.6,4.5,60.7,NL,105,57,Y,N,Y,N,True
-1980,Brewers,0.275,0.173,32.4,4.9,5.2,AL,86,76,N,,N,N,False
-1977,Reds,0.274,0.162,31.5,5.3,34.7,NL,88,74,N,,N,N,False
 2005,Rangers,0.267,0.201,20.8,4.5,-54.3,AL,79,83,N,N,N,N,False
-1973,Braves,0.266,0.161,29.8,4.2,31.0,NL,76,85,N,,N,N,False
 1999,Phillies,0.275,0.156,24.2,5.2,73.4,NL,77,85,N,N,N,N,False
-1980,Yankees,0.267,0.157,28.6,4.4,-36.9,AL,103,59,Y,,N,N,True
 2001,Astros,0.271,0.18,23.6,4.0,36.1,NL,93,69,Y,N,N,N,True
 2002,Rangers,0.269,0.186,21.9,4.1,-22.9,AL,72,90,N,N,N,N,False
-1983,Blue Jays,0.277,0.159,28.5,5.2,19.5,AL,89,73,N,,N,N,False
 2002,Red Sox,0.277,0.168,24.2,4.6,-28.8,AL,93,69,N,N,N,N,False
 1998,Blue Jays,0.266,0.182,22.1,4.9,-13.7,AL,88,74,N,N,N,N,False
 2008,Tigers,0.271,0.173,18.0,4.4,-78.7,AL,74,88,N,N,N,N,False
 1994,Astros,0.278,0.167,26.2,5.5,58.4,NL,66,49,,,,,False
-1965,Reds,0.273,0.166,33.2,5.1,12.0,NL,89,73,,,N,N,False
 1999,Royals,0.282,0.151,19.0,5.6,16.7,AL,64,97,N,N,N,N,False
 1999,Brewers,0.273,0.153,18.0,4.3,11.0,NL,74,87,N,N,N,N,False
 1995,Reds,0.27,0.169,28.3,5.7,63.3,NL,85,59,Y,N,N,N,True
@@ -148,63 +125,43 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1987,Red Sox,0.278,0.152,21.3,4.0,-32.8,AL,78,84,N,,N,N,False
 2008,Cardinals,0.281,0.152,32.4,4.1,72.3,NL,86,76,N,N,N,N,False
 2003,Rockies,0.267,0.179,16.5,4.2,39.6,NL,74,88,N,N,N,N,False
-1970,Reds,0.27,0.165,36.0,4.8,66.8,NL,102,60,Y,,Y,N,True
 1991,Twins,0.28,0.139,27.4,4.6,18.4,AL,95,67,Y,,Y,Y,True
-1978,Red Sox,0.267,0.157,24.5,4.3,-9.8,AL,99,64,N,,N,N,False
 2009,Devil Rays/Rays,0.263,0.177,33.5,5.5,31.6,AL,84,78,N,N,N,N,False
 2012,Yankees,0.265,0.188,29.2,4.1,-24.8,AL,95,67,Y,N,N,N,True
 2006,Phillies,0.267,0.18,25.9,4.9,34.6,NL,85,77,N,N,N,N,False
 2000,Reds,0.274,0.173,24.3,4.8,89.9,NL,85,77,N,N,N,N,False
 2009,Rockies,0.261,0.18,19.2,5.0,21.1,NL,92,70,N,Y,N,N,True
 2001,Giants,0.266,0.194,30.9,4.0,46.3,NL,90,72,N,N,N,N,False
-1969,Orioles,0.265,0.148,44.6,4.2,150.9,AL,109,53,Y,,Y,N,True
-1977,Royals,0.277,0.159,29.7,6.1,10.7,AL,102,60,Y,,N,N,True
 1999,Astros,0.267,0.154,27.4,4.6,71.8,NL,97,65,Y,N,N,N,True
 2013,Tigers,0.283,0.151,26.8,3.3,-42.9,AL,93,69,Y,N,N,N,True
-1980,Tigers,0.273,0.136,22.1,4.4,-43.5,AL,84,78,N,,N,N,False
-1985,Yankees,0.267,0.158,32.5,5.2,10.0,AL,97,64,N,,N,N,False
 1998,Giants,0.274,0.147,31.3,4.5,52.7,NL,89,74,N,N,N,N,False
 1998,White Sox,0.271,0.172,23.2,5.3,-10.6,AL,80,82,N,N,N,N,False
 2000,Tigers,0.275,0.163,19.7,4.6,-15.3,AL,79,83,N,N,N,N,False
-1969,Reds,0.277,0.146,28.5,4.4,23.1,NL,89,73,N,,N,N,False
-1970,Red Sox,0.262,0.166,27.6,3.6,52.4,AL,87,75,N,,N,N,False
 2004,Phillies,0.267,0.176,26.7,4.4,50.4,NL,86,76,N,N,N,N,False
 1998,Cardinals,0.258,0.183,28.3,4.8,47.7,NL,83,79,N,N,N,N,False
 2005,Reds,0.261,0.185,23.2,3.9,-10.3,NL,73,89,N,N,N,N,False
 2006,Red Sox,0.269,0.166,16.1,3.4,-43.5,AL,86,76,N,N,N,N,False
 1989,Red Sox,0.277,0.125,27.4,3.8,-19.8,AL,83,79,N,,N,N,False
 2004,White Sox,0.268,0.189,23.2,4.1,19.4,AL,83,79,N,N,N,N,False
-1985,Orioles,0.263,0.167,25.3,3.8,-37.3,AL,83,78,N,,N,N,False
 2007,Marlins,0.267,0.181,20.7,5.0,-6.3,NL,71,91,N,N,N,N,False
 2005,Indians,0.271,0.181,30.9,4.0,20.2,AL,93,69,N,N,N,N,False
 2010,Reds,0.272,0.164,34.5,4.4,80.5,NL,91,71,Y,N,N,N,True
 1988,Twins,0.274,0.147,26.4,4.4,-5.6,AL,91,71,N,,N,N,False
-1970,Giants,0.262,0.147,22.4,4.4,-52.7,NL,86,76,N,,N,N,False
 1995,Orioles,0.262,0.166,19.9,4.4,23.8,AL,71,73,N,N,N,N,False
 2004,Giants,0.27,0.168,27.5,3.8,28.4,NL,91,71,N,N,N,N,False
-1982,Royals,0.285,0.143,30.1,5.5,20.0,AL,90,72,N,,N,N,False
 2008,White Sox,0.263,0.185,15.6,3.7,-39.4,AL,89,74,Y,N,N,N,True
 1987,Blue Jays,0.269,0.177,27.8,5.1,26.5,AL,96,66,N,,N,N,False
 2000,Mets,0.263,0.167,23.5,3.7,55.3,NL,94,68,N,Y,Y,N,True
-1980,Royals,0.286,0.128,30.1,5.9,6.7,AL,97,65,Y,,Y,N,True
 1994,Mariners,0.269,0.182,13.3,4.3,-7.1,AL,49,63,,,,,False
 1986,Indians,0.284,0.146,20.5,5.3,-64.4,AL,84,78,N,,N,N,False
-1980,Orioles,0.273,0.14,31.5,4.7,7.4,AL,100,62,N,,N,N,False
 2000,Braves,0.271,0.157,24.4,5.0,83.2,NL,95,67,Y,N,N,N,True
-1982,Orioles,0.266,0.153,30.6,3.6,22.6,AL,94,68,N,,N,N,False
 2006,Braves,0.27,0.184,23.7,4.0,48.1,NL,79,83,N,N,N,N,False
 2009,Phillies,0.258,0.189,31.5,5.2,68.9,NL,93,69,Y,N,Y,N,True
-1983,Orioles,0.269,0.152,28.0,4.0,-14.9,AL,98,64,Y,,Y,Y,True
-1977,Twins,0.282,0.135,23.7,5.1,-32.0,AL,84,77,N,,N,N,False
-1971,Orioles,0.261,0.138,39.3,3.9,92.9,AL,101,57,Y,,Y,N,True
 2004,Tigers,0.272,0.177,21.7,4.9,-41.5,AL,72,90,N,N,N,N,False
-1979,Royals,0.282,0.14,27.4,6.5,13.4,AL,85,77,N,,N,N,False
 1994,Expos/Nationals,0.278,0.158,20.6,5.7,54.2,NL,74,40,,,,,False
-1983,Tigers,0.274,0.153,34.3,4.9,60.6,AL,92,70,N,,N,N,False
 1995,Twins,0.279,0.139,14.5,4.8,-16.0,AL,56,88,N,N,N,N,False
 2000,Royals,0.288,0.138,17.1,4.8,33.1,AL,77,85,N,N,N,N,False
 1986,Tigers,0.263,0.161,32.8,4.8,35.5,AL,87,75,N,,N,N,False
-1975,Phillies,0.269,0.133,32.1,4.8,72.1,NL,86,76,N,,N,N,False
 2002,Giants,0.266,0.175,35.1,4.6,72.1,NL,95,66,N,Y,Y,N,True
 1987,Brewers,0.276,0.152,17.8,5.4,-61.3,AL,91,71,N,,N,N,False
 1999,Braves,0.266,0.17,23.8,4.7,85.4,NL,103,59,Y,N,Y,N,True
@@ -212,15 +169,11 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1997,Braves,0.27,0.156,31.8,4.7,114.3,NL,101,61,Y,N,N,N,True
 2009,Twins,0.274,0.155,21.1,4.7,-49.1,AL,87,76,Y,N,N,N,True
 1986,Red Sox,0.271,0.144,21.6,3.4,-18.6,AL,95,66,Y,,Y,N,True
-1981,Red Sox,0.275,0.124,17.9,3.3,-5.2,AL,59,49,N,,N,N,False
 2003,Rangers,0.266,0.188,20.2,4.6,-9.5,AL,71,91,N,N,N,N,False
 2001,Athletics,0.264,0.175,28.0,4.2,0.4,AL,102,60,N,Y,N,N,True
 1993,Orioles,0.267,0.146,27.8,3.7,52.8,AL,85,77,N,,N,N,False
 2000,Orioles,0.272,0.163,15.3,4.4,-38.4,AL,74,88,N,N,N,N,False
-1969,Twins,0.268,0.141,30.8,4.4,60.0,AL,97,65,Y,,N,N,True
-1969,Twins,0.251,0.128,26.6,3.8,66.7,AL,97,65,Y,,N,N,True
 2008,Yankees,0.271,0.156,18.2,4.5,-56.3,AL,89,73,N,N,N,N,False
-1969,Red Sox,0.251,0.164,23.6,3.6,36.5,AL,87,75,N,,N,N,False
 2007,Brewers,0.262,0.194,25.1,4.9,44.1,NL,83,79,N,N,N,N,False
 2006,Rangers,0.278,0.168,15.9,3.9,-21.7,AL,80,82,N,N,N,N,False
 2014,Rockies,0.276,0.169,19.4,4.6,25.5,NL,66,96,N,N,N,N,False
@@ -232,25 +185,20 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2007,Braves,0.275,0.16,27.2,4.2,80.5,NL,84,78,N,N,N,N,False
 2001,White Sox,0.268,0.183,23.0,4.7,-7.1,AL,83,79,N,N,N,N,False
 1992,Blue Jays,0.263,0.151,29.1,5.2,13.3,AL,96,66,Y,,Y,Y,True
-1979,Tigers,0.269,0.146,19.2,5.0,-22.4,AL,85,76,N,,N,N,False
 1993,Giants,0.276,0.151,35.4,4.7,75.0,NL,103,59,N,,N,N,False
 2004,Athletics,0.27,0.163,20.6,3.3,-20.0,AL,91,71,N,N,N,N,False
 1992,Tigers,0.256,0.151,27.4,3.4,8.0,AL,75,87,N,,N,N,False
 2004,Orioles,0.281,0.15,22.0,4.1,-25.2,AL,78,84,N,N,N,N,False
-1974,Dodgers,0.272,0.129,37.4,4.8,68.3,NL,102,60,Y,,Y,N,True
 1996,Angels,0.276,0.155,13.9,3.4,-27.8,AL,70,91,N,N,N,N,False
 2002,Athletics,0.261,0.171,23.1,3.9,-42.7,AL,103,59,Y,N,N,N,True
 2000,Dodgers,0.257,0.174,23.7,4.4,46.3,NL,86,76,N,N,N,N,False
-1983,Yankees,0.273,0.143,24.1,4.5,-57.6,AL,91,71,N,,N,N,False
 1997,Rangers,0.274,0.164,17.3,4.3,-1.2,AL,77,85,N,N,N,N,False
 1997,Athletics,0.26,0.163,12.0,3.8,-107.8,AL,65,97,N,N,N,N,False
 1997,Angels,0.272,0.144,21.6,4.3,4.6,AL,84,78,N,N,N,N,False
 2004,Rangers,0.266,0.191,18.4,4.4,1.3,AL,89,73,N,N,N,N,False
 2007,Mets,0.275,0.157,27.7,5.4,57.5,NL,88,74,N,N,N,N,False
 1998,Cubs,0.264,0.169,21.7,4.3,26.0,NL,90,73,N,Y,N,N,True
-1976,Phillies,0.272,0.123,32.4,4.9,59.7,NL,101,61,Y,,N,N,True
 2007,Indians,0.268,0.159,21.7,4.2,-29.6,AL,96,66,Y,N,N,N,True
-1974,Reds,0.26,0.135,38.6,4.9,90.2,NL,98,64,N,,N,N,False
 2003,White Sox,0.263,0.182,22.5,4.2,12.9,AL,86,76,N,N,N,N,False
 2004,Cubs,0.268,0.19,25.4,4.2,74.9,NL,89,73,N,N,N,N,False
 1991,Tigers,0.247,0.169,29.6,4.6,31.9,AL,84,78,N,,N,N,False
@@ -259,7 +207,6 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2002,Angels,0.282,0.15,28.2,4.9,16.5,AL,99,63,N,Y,Y,Y,True
 2009,Brewers,0.263,0.164,24.9,4.3,36.5,NL,80,82,N,N,N,N,False
 2012,Rangers,0.273,0.173,24.8,4.5,-10.1,AL,93,69,N,Y,N,N,True
-1979,Orioles,0.261,0.158,32.1,4.2,54.0,AL,102,57,Y,,Y,N,True
 1986,Rangers,0.267,0.16,20.2,4.5,-19.3,AL,87,75,N,,N,N,False
 1994,Twins,0.276,0.15,12.0,5.2,-5.4,AL,53,60,,,,,False
 2001,Diamondbacks,0.267,0.175,26.0,4.4,88.6,NL,92,70,Y,N,Y,Y,True
@@ -273,29 +220,19 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2007,Reds,0.267,0.17,15.5,4.3,8.4,NL,72,90,N,N,N,N,False
 1990,Tigers,0.259,0.15,22.5,4.0,-37.9,AL,79,83,N,,N,N,False
 2001,Cardinals,0.27,0.172,31.1,4.6,103.0,NL,93,69,N,Y,N,N,True
-1970,Orioles,0.257,0.144,36.9,4.0,102.8,AL,108,54,Y,,Y,Y,True
 2008,Devil Rays/Rays,0.26,0.162,31.1,5.1,52.0,AL,97,65,Y,N,Y,N,True
-1971,Pirates,0.274,0.142,37.4,5.0,47.9,NL,97,65,Y,,Y,Y,True
-1984,Blue Jays,0.273,0.148,24.9,6.0,4.0,AL,89,73,N,,N,N,False
-1982,Red Sox,0.274,0.132,18.2,3.5,-17.0,AL,89,73,N,,N,N,False
 2010,Twins,0.273,0.148,26.6,4.5,13.7,AL,94,68,Y,N,N,N,True
-1963,Twins,0.254,0.175,32.6,3.6,72.1,AL,91,70,,,N,N,False
-1963,Twins,0.227,0.124,4.0,4.2,7.5,AL,91,70,,,N,N,False
 1987,Mets,0.267,0.166,30.7,5.1,24.6,NL,92,70,N,,N,N,False
 1995,Astros,0.275,0.124,22.2,5.0,-9.5,NL,76,68,N,N,N,N,False
 2008,Indians,0.262,0.162,23.9,4.3,-0.4,AL,81,81,N,N,N,N,False
 1986,Blue Jays,0.269,0.157,22.8,4.6,-15.1,AL,86,76,N,,N,N,False
 2011,Cardinals,0.273,0.151,28.4,3.6,2.7,NL,90,72,N,Y,Y,Y,True
 2006,Twins,0.287,0.138,22.7,4.6,13.5,AL,96,66,Y,N,N,N,True
-1973,Red Sox,0.267,0.134,28.3,4.6,40.3,AL,89,73,N,,N,N,False
 1999,Tigers,0.261,0.181,15.5,4.7,19.8,AL,69,92,N,N,N,N,False
-1985,Blue Jays,0.269,0.156,27.5,5.3,44.6,AL,99,62,Y,,N,N,True
 2008,Phillies,0.255,0.182,31.4,5.4,107.5,NL,92,70,Y,N,Y,Y,True
 1999,Cardinals,0.262,0.163,17.2,4.9,38.5,NL,75,86,N,N,N,N,False
-1982,White Sox,0.273,0.14,17.8,5.4,-63.1,AL,87,75,N,,N,N,False
 2010,Brewers,0.262,0.161,26.8,4.4,30.4,NL,77,85,N,N,N,N,False
 2000,Red Sox,0.267,0.156,16.4,3.7,21.3,AL,85,77,N,N,N,N,False
-1973,Orioles,0.266,0.123,41.2,5.0,98.2,AL,97,65,Y,,N,N,True
 1992,Athletics,0.258,0.129,30.5,4.4,-11.9,AL,96,66,Y,,N,N,True
 2006,Tigers,0.274,0.174,21.8,4.4,23.4,AL,95,67,N,Y,Y,N,True
 1992,Orioles,0.259,0.138,25.4,4.1,-5.6,AL,89,73,N,,N,N,False
@@ -306,49 +243,31 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1997,White Sox,0.273,0.144,17.2,4.5,-43.1,AL,80,81,N,N,N,N,False
 2004,Angels,0.282,0.147,23.4,5.4,1.4,AL,92,70,Y,N,N,N,True
 2010,Blue Jays,0.248,0.206,21.9,4.0,-20.8,AL,85,77,N,N,N,N,False
-1970,Cubs,0.259,0.155,17.2,4.2,30.1,NL,84,78,N,,N,N,False
 1987,Mariners,0.272,0.156,16.1,5.6,-37.0,AL,78,84,N,,N,N,False
 1994,Braves,0.267,0.167,17.9,4.0,59.4,NL,68,46,,,,,False
-1973,Twins,0.27,0.122,21.4,4.4,-36.8,AL,81,81,N,,N,N,False
-1984,Yankees,0.276,0.129,21.6,3.9,-56.5,AL,87,75,N,,N,N,False
 2006,Rockies,0.27,0.163,13.5,4.9,39.3,NL,76,86,N,N,N,N,False
 1990,Blue Jays,0.265,0.155,26.5,5.1,8.4,AL,86,76,N,,N,N,False
 2000,Pirates,0.267,0.157,10.6,4.4,-14.3,NL,69,93,N,N,N,N,False
-1980,Rangers,0.284,0.121,16.4,4.0,-106.2,AL,76,85,N,,N,N,False
 2003,Astros,0.263,0.169,26.4,4.3,76.6,NL,87,75,N,N,N,N,False
 1999,Devil Rays/Rays,0.274,0.137,6.8,4.1,-71.2,AL,69,93,N,N,N,N,False
 2009,Indians,0.264,0.153,16.1,4.4,-54.8,AL,65,97,N,N,N,N,False
-1978,Dodgers,0.264,0.139,33.3,4.7,44.1,NL,95,67,Y,,Y,N,True
 2010,Rockies,0.263,0.162,14.7,5.3,8.7,NL,83,79,N,N,N,N,False
-1973,Giants,0.262,0.144,25.8,5.0,26.3,NL,88,74,N,,N,N,False
 1996,Braves,0.27,0.162,25.0,4.2,80.4,NL,96,66,Y,N,Y,N,True
-1976,Red Sox,0.263,0.139,22.3,4.7,2.2,AL,83,79,N,,N,N,False
 2010,Rangers,0.276,0.143,21.7,4.5,0.9,AL,90,72,Y,N,Y,N,True
-1983,Brewers,0.277,0.141,24.5,5.0,-35.8,AL,87,75,N,,N,N,False
 2008,Orioles,0.267,0.162,18.4,4.4,-11.0,AL,68,93,N,N,N,N,False
 2007,Mariners,0.287,0.138,15.3,4.3,-68.4,AL,88,74,N,N,N,N,False
 1991,Red Sox,0.269,0.133,22.1,3.6,13.6,AL,84,78,N,,N,N,False
 1986,Twins,0.261,0.167,15.5,4.3,-45.8,AL,71,91,N,,N,N,False
 1987,Rangers,0.266,0.165,14.3,4.9,-49.7,AL,75,87,N,,N,N,False
-1977,Rangers,0.27,0.135,29.3,5.0,41.0,AL,94,68,N,,N,N,False
 1993,White Sox,0.265,0.146,26.7,4.7,41.3,AL,94,68,Y,,N,N,True
 2007,Angels,0.284,0.133,21.6,4.8,2.0,AL,94,68,Y,N,N,N,True
-1977,Dodgers,0.265,0.152,29.1,4.4,50.6,NL,98,64,Y,,Y,N,True
-1979,Twins,0.278,0.123,16.4,4.3,-27.9,AL,82,80,N,,N,N,False
-1975,Twins,0.271,0.115,21.7,4.1,-17.6,AL,76,83,N,,N,N,False
 1990,Red Sox,0.272,0.123,15.3,3.5,-55.0,AL,88,74,Y,,N,N,True
 2001,Red Sox,0.266,0.173,14.2,3.7,-67.4,AL,82,79,N,N,N,N,False
 2003,Phillies,0.261,0.158,26.4,4.3,59.1,NL,86,76,N,N,N,N,False
-1975,Athletics,0.254,0.136,31.6,5.1,20.4,AL,98,64,Y,,N,N,True
-1983,Red Sox,0.27,0.139,16.9,3.3,-33.2,AL,78,84,N,,N,N,False
 2008,Mets,0.266,0.154,28.6,5.2,66.1,NL,89,73,N,N,N,N,False
 2001,Twins,0.272,0.161,21.8,5.1,13.0,AL,85,77,N,N,N,N,False
-1978,Tigers,0.271,0.12,24.5,4.2,-0.6,AL,86,76,N,,N,N,False
-1981,Phillies,0.273,0.115,17.7,4.8,-10.2,NL,59,48,Y,,N,N,True
 2006,Reds,0.257,0.175,19.8,4.2,31.1,NL,80,82,N,N,N,N,False
-1975,Royals,0.261,0.133,22.6,5.3,-8.6,AL,91,71,N,,N,N,False
 2009,Marlins,0.268,0.148,20.0,4.2,14.4,NL,87,75,N,N,N,N,False
-1964,Braves,0.272,0.146,35.1,4.0,24.4,NL,88,74,,,N,N,False
 1987,Athletics,0.26,0.168,20.7,4.9,-42.8,AL,81,81,N,,N,N,False
 2003,Royals,0.274,0.153,12.5,5.3,-57.8,AL,83,79,N,N,N,N,False
 2008,Braves,0.27,0.138,21.1,3.9,18.2,NL,72,90,N,N,N,N,False
@@ -356,12 +275,10 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1988,Athletics,0.263,0.136,31.4,4.6,-6.3,AL,104,58,Y,,Y,N,True
 2010,White Sox,0.268,0.152,14.8,4.7,-58.4,AL,88,74,N,N,N,N,False
 2009,Dodgers,0.27,0.141,25.8,4.9,34.1,NL,95,67,Y,N,N,N,True
-1976,Twins,0.274,0.102,28.1,5.2,-6.8,AL,85,77,N,,N,N,False
 2001,Yankees,0.267,0.168,17.3,4.9,-73.8,AL,95,65,Y,N,Y,N,True
 1994,Blue Jays,0.269,0.155,7.6,5.1,-42.5,AL,55,60,,,,,False
 2005,Braves,0.265,0.17,29.6,4.8,96.7,NL,90,72,Y,N,N,N,True
 1992,Twins,0.277,0.115,23.9,4.5,11.8,AL,90,72,N,,N,N,False
-1979,White Sox,0.275,0.135,19.2,4.4,-9.6,AL,73,87,N,,N,N,False
 2012,Angels,0.274,0.159,37.5,4.8,45.7,AL,89,73,N,N,N,N,False
 2009,Rangers,0.26,0.185,17.5,5.3,15.7,AL,87,75,N,N,N,N,False
 1995,Rangers,0.265,0.144,12.7,4.4,8.0,AL,74,70,N,N,N,N,False
@@ -369,47 +286,32 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2014,Tigers,0.277,0.15,23.4,4.7,-57.9,AL,90,72,Y,N,N,N,True
 2006,Orioles,0.277,0.146,17.1,4.6,-2.7,AL,70,92,N,N,N,N,False
 1989,Twins,0.276,0.125,20.0,4.6,-44.0,AL,80,82,N,,N,N,False
-1964,Twins,0.252,0.175,27.9,4.2,52.3,AL,79,83,,,N,N,False
-1964,Twins,0.231,0.117,7.4,3.6,48.3,AL,79,83,,,N,N,False
 2002,Rockies,0.274,0.149,9.6,4.8,34.1,NL,73,89,N,N,N,N,False
 2005,Cardinals,0.27,0.153,27.1,4.5,54.7,NL,100,62,Y,N,N,N,True
-1981,White Sox,0.272,0.115,16.5,4.9,-16.9,AL,54,52,N,,N,N,False
 2002,Phillies,0.259,0.163,23.9,4.6,27.8,NL,80,81,N,N,N,N,False
 2012,Rockies,0.274,0.163,9.3,5.1,-30.1,NL,64,98,N,N,N,N,False
-1966,Pirates,0.28,0.149,33.8,4.6,46.7,NL,92,70,,,N,N,False
 1987,Yankees,0.262,0.156,21.7,4.0,3.0,AL,89,73,N,,N,N,False
 1986,Angels,0.255,0.149,29.5,4.9,48.0,AL,92,70,Y,,N,N,True
-1980,Indians,0.277,0.104,16.3,4.7,-66.6,AL,79,81,N,,N,N,False
 2003,Mariners,0.271,0.139,31.1,4.7,62.6,AL,93,69,N,N,N,N,False
 1995,Cubs,0.265,0.165,20.8,5.1,51.3,NL,73,71,N,N,N,N,False
-1982,Tigers,0.266,0.152,27.9,4.4,58.1,AL,83,79,N,,N,N,False
 2003,Pirates,0.267,0.153,21.0,4.6,29.3,NL,75,87,N,N,N,N,False
 2006,Cardinals,0.269,0.163,23.3,4.0,46.0,NL,83,78,Y,N,Y,Y,True
 1996,Blue Jays,0.259,0.161,11.1,5.1,-39.7,AL,74,88,N,N,N,N,False
 2002,Cardinals,0.268,0.157,30.4,4.4,82.2,NL,97,65,Y,N,N,N,True
 1995,Brewers,0.266,0.143,11.5,5.2,-14.0,AL,65,79,N,N,N,N,False
 1993,Mariners,0.26,0.146,21.0,3.8,28.0,AL,82,80,N,,N,N,False
-1983,Braves,0.272,0.128,22.1,4.8,22.4,NL,88,74,N,,N,N,False
-1974,Pirates,0.274,0.118,28.1,4.2,20.6,NL,88,74,Y,,N,N,True
-1984,Phillies,0.266,0.141,30.5,5.6,19.9,NL,81,81,N,,N,N,False
 2008,Rockies,0.263,0.152,10.1,5.0,-22.6,NL,74,88,N,N,N,N,False
 1994,Royals,0.269,0.15,8.0,5.9,-24.3,AL,64,51,,,,,False
 1992,Yankees,0.261,0.144,22.8,3.9,-34.2,AL,76,86,N,,N,N,False
 2008,Marlins,0.254,0.179,20.6,4.4,33.5,NL,84,77,N,N,N,N,False
 1997,Astros,0.259,0.144,31.0,5.3,107.8,NL,84,78,Y,N,N,N,True
-1979,Rangers,0.278,0.13,24.8,3.9,35.6,AL,83,79,N,,N,N,False
-1979,Dodgers,0.263,0.149,26.0,4.2,8.3,NL,79,83,N,,N,N,False
-1976,Yankees,0.269,0.119,38.2,5.0,80.0,AL,97,62,Y,,Y,N,True
 1998,Angels,0.272,0.144,8.2,4.5,-85.9,AL,85,77,N,N,N,N,False
 2004,Twins,0.266,0.166,17.2,4.5,-15.6,AL,92,70,Y,N,N,N,True
 2003,Giants,0.264,0.161,28.2,3.8,94.8,NL,100,61,Y,N,N,N,True
-1983,White Sox,0.262,0.15,25.8,5.6,24.0,AL,99,63,Y,,N,N,True
 1999,Pirates,0.259,0.16,14.0,5.0,45.7,NL,78,83,N,N,N,N,False
 1991,Pirates,0.263,0.135,31.0,5.3,23.1,NL,98,64,Y,,N,N,True
 2010,Tigers,0.268,0.147,25.0,4.1,2.2,AL,81,81,N,N,N,N,False
-1974,White Sox,0.268,0.121,18.0,3.4,-59.6,AL,80,80,N,,N,N,False
 2005,Orioles,0.269,0.165,18.8,4.3,-18.7,AL,74,88,N,N,N,N,False
-1971,Tigers,0.254,0.15,25.7,3.5,27.3,AL,91,71,N,,N,N,False
 2008,Brewers,0.253,0.179,25.2,4.9,61.6,NL,90,72,N,Y,N,N,True
 1997,Marlins,0.259,0.135,21.9,4.4,35.0,NL,92,70,N,Y,Y,Y,True
 1994,Red Sox,0.263,0.157,8.0,4.6,-5.7,AL,54,61,,,,,False
@@ -420,70 +322,46 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2012,Cardinals,0.271,0.15,28.3,4.7,28.9,NL,88,74,N,Y,N,N,True
 1997,Giants,0.258,0.156,27.5,5.0,82.5,NL,90,72,Y,N,N,N,True
 2005,Cubs,0.27,0.17,21.3,3.7,59.4,NL,79,83,N,N,N,N,False
-1970,Braves,0.27,0.134,19.8,3.6,26.7,NL,76,86,N,,N,N,False
 2006,Marlins,0.264,0.171,20.2,4.8,20.0,NL,78,84,N,N,N,N,False
 2007,Rangers,0.263,0.163,15.1,5.1,-26.5,AL,75,87,N,N,N,N,False
-1975,Pirates,0.263,0.139,30.1,4.2,72.6,NL,92,69,Y,,N,N,True
-1975,Indians,0.261,0.131,19.0,3.8,-29.5,AL,79,80,N,,N,N,False
 1996,Reds,0.256,0.166,16.1,5.4,2.0,NL,81,81,N,N,N,N,False
 2004,Padres,0.273,0.141,25.9,3.9,22.3,NL,87,75,N,N,N,N,False
 1987,Cubs,0.264,0.168,11.2,4.4,-36.2,NL,76,85,N,,N,N,False
 2002,Blue Jays,0.261,0.169,18.9,4.9,-7.8,AL,78,84,N,N,N,N,False
 2001,Cubs,0.261,0.169,20.6,4.1,29.3,NL,88,74,N,N,N,N,False
 1990,Athletics,0.254,0.137,36.4,4.5,85.0,AL,103,59,Y,,Y,N,True
-1966,Braves,0.263,0.161,30.0,3.9,21.9,NL,85,77,,,N,N,False
 2007,Cubs,0.271,0.15,21.1,4.4,96.7,NL,85,77,Y,N,N,N,True
 1997,Tigers,0.258,0.157,8.0,5.0,-80.9,AL,79,83,N,N,N,N,False
 1993,Indians,0.275,0.133,17.9,5.1,-21.4,AL,76,86,N,,N,N,False
 1993,Cardinals,0.272,0.123,24.3,4.8,23.5,NL,87,75,N,,N,N,False
 1987,Reds,0.266,0.161,21.1,5.3,27.0,NL,84,78,N,,N,N,False
-1969,Pirates,0.277,0.121,30.1,4.7,30.5,NL,88,74,N,,N,N,False
 2006,Athletics,0.26,0.152,16.5,3.9,-8.1,AL,93,69,Y,N,N,N,True
 1997,Dodgers,0.269,0.15,19.8,4.6,4.4,NL,88,74,N,N,N,N,False
 2007,Athletics,0.256,0.151,17.2,3.3,-32.1,AL,76,86,N,N,N,N,False
-1974,Twins,0.272,0.106,19.7,3.9,-41.8,AL,82,80,N,,N,N,False
 2012,Tigers,0.268,0.154,18.7,4.3,-40.4,AL,88,74,Y,N,Y,N,True
 1986,Mets,0.263,0.138,33.3,4.7,52.7,NL,108,54,Y,,Y,Y,True
-1979,Phillies,0.266,0.13,29.2,4.8,90.8,NL,84,78,N,,N,N,False
 1993,Rockies,0.273,0.149,10.0,5.7,10.9,NL,67,95,N,,N,N,False
 1995,Marlins,0.262,0.144,19.5,4.9,41.3,NL,67,76,N,N,N,N,False
-1973,Royals,0.261,0.12,15.1,4.6,-75.4,AL,88,74,N,,N,N,False
 1991,Brewers,0.271,0.125,18.8,5.0,-49.4,AL,83,79,N,,N,N,False
 1993,Braves,0.262,0.146,30.5,4.8,121.1,NL,104,58,Y,,N,N,True
-1978,Reds,0.256,0.138,24.9,4.7,3.8,NL,92,69,N,,N,N,False
 2008,Twins,0.279,0.129,18.6,5.3,-35.2,AL,88,75,N,N,N,N,False
-1977,Pirates,0.274,0.14,27.8,5.8,81.7,NL,96,66,N,,N,N,False
-1981,Reds,0.267,0.118,18.2,4.1,17.1,NL,66,42,N,,N,N,False
-1985,Mariners,0.256,0.157,17.1,4.7,-43.4,AL,74,88,N,,N,N,False
 2009,Tigers,0.26,0.156,17.9,4.4,13.9,AL,86,77,N,N,N,N,False
 2009,Orioles,0.268,0.147,10.2,3.9,-37.1,AL,64,98,N,N,N,N,False
 1999,Cubs,0.257,0.163,10.4,4.1,20.0,NL,67,95,N,N,N,N,False
-1974,Rangers,0.272,0.105,20.3,4.5,-48.0,AL,84,76,N,,N,N,False
-1984,Athletics,0.259,0.145,21.1,4.8,-47.8,AL,77,85,N,,N,N,False
 1991,White Sox,0.262,0.129,28.6,4.8,44.2,AL,87,75,N,,N,N,False
 2005,Diamondbacks,0.256,0.165,12.4,3.9,-10.7,NL,77,85,N,N,N,N,False
 1990,Pirates,0.259,0.146,31.7,5.1,55.8,NL,95,67,Y,,N,N,True
 2010,Braves,0.258,0.143,21.5,4.1,15.7,NL,91,71,N,Y,N,N,True
-1978,Royals,0.268,0.131,27.8,5.9,34.2,AL,92,70,Y,,N,N,True
 2005,Devil Rays/Rays,0.274,0.151,20.6,5.4,-16.4,AL,67,95,N,N,N,N,False
-1978,Orioles,0.258,0.138,27.7,3.5,17.7,AL,90,71,N,,N,N,False
 2003,Marlins,0.266,0.155,23.4,5.1,41.8,NL,91,71,N,Y,Y,Y,True
 2000,Expos/Nationals,0.266,0.165,8.3,4.1,1.2,NL,67,95,N,N,N,N,False
-1973,Athletics,0.26,0.129,36.0,4.7,66.0,AL,94,68,Y,,Y,Y,True
 2004,Dodgers,0.262,0.161,28.0,4.5,96.9,NL,93,69,Y,N,N,N,True
-1979,Indians,0.258,0.126,12.9,4.6,-58.2,AL,81,80,N,,N,N,False
-1979,Pirates,0.272,0.144,25.6,5.7,41.4,NL,98,64,Y,,Y,Y,True
 2006,Angels,0.274,0.15,17.0,4.9,-12.1,AL,89,73,N,N,N,N,False
 1994,Angels,0.264,0.145,7.9,3.8,-5.7,AL,47,68,,,,,False
 1994,Dodgers,0.27,0.144,10.3,4.7,-38.9,NL,58,56,,,,,False
 2005,Brewers,0.259,0.163,19.4,4.0,37.3,NL,81,81,N,N,N,N,False
-1979,Mariners,0.269,0.135,16.1,5.1,-22.9,AL,67,95,N,,N,N,False
 2009,Expos/Nationals,0.258,0.148,15.7,4.2,-6.3,NL,59,103,N,N,N,N,False
-1964,Red Sox,0.258,0.158,16.5,3.0,-4.4,AL,72,90,,,N,N,False
 2006,Expos/Nationals,0.262,0.156,19.5,4.3,18.8,NL,71,91,N,N,N,N,False
-1981,Yankees,0.252,0.139,18.2,3.8,8.3,AL,59,48,Y,,Y,N,True
-1979,Reds,0.264,0.132,26.7,4.4,49.1,NL,90,71,Y,,N,N,True
-1971,Cardinals,0.275,0.11,24.3,5.2,-28.5,NL,90,72,N,,N,N,False
 1997,Royals,0.264,0.143,18.6,4.6,33.8,AL,67,94,N,N,N,N,False
 2009,Braves,0.263,0.142,18.9,3.7,29.4,NL,86,76,N,N,N,N,False
 2007,Orioles,0.272,0.141,15.1,5.0,-17.2,AL,69,93,N,N,N,N,False
@@ -500,18 +378,12 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1999,Expos/Nationals,0.265,0.162,7.6,4.5,5.4,NL,68,94,N,N,N,N,False
 1992,Mariners,0.263,0.139,15.3,4.0,-65.0,AL,64,98,N,,N,N,False
 1994,Brewers,0.263,0.145,11.2,4.2,20.8,AL,53,62,,,,,False
-1985,Tigers,0.253,0.17,24.6,4.3,13.7,AL,84,77,N,,N,N,False
-1971,Red Sox,0.252,0.145,24.1,3.7,52.6,AL,85,77,N,,N,N,False
 2004,Reds,0.25,0.168,15.6,4.4,25.6,NL,76,86,N,N,N,N,False
 1998,Reds,0.262,0.14,18.3,4.4,52.5,NL,77,85,N,N,N,N,False
-1981,Angels,0.256,0.124,16.3,3.6,-15.1,AL,51,59,N,,N,N,False
 2010,Devil Rays/Rays,0.247,0.156,31.2,5.6,8.7,AL,96,66,Y,N,N,N,True
-1974,Red Sox,0.264,0.114,22.4,4.3,26.2,AL,84,78,N,,N,N,False
 1995,Blue Jays,0.26,0.149,5.5,4.5,-75.1,AL,56,88,N,N,N,N,False
-1972,Astros,0.258,0.135,24.3,4.9,-35.3,NL,84,69,N,,N,N,False
 2006,Diamondbacks,0.267,0.157,10.8,4.6,12.3,NL,76,86,N,N,N,N,False
 2007,Cardinals,0.274,0.132,18.0,3.4,40.6,NL,78,84,N,N,N,N,False
-1979,Cubs,0.269,0.134,12.3,4.2,-12.2,NL,80,82,N,,N,N,False
 2005,Marlins,0.272,0.137,18.2,4.5,2.5,NL,83,79,N,N,N,N,False
 2002,Expos/Nationals,0.261,0.157,13.2,4.7,-12.7,NL,83,79,N,N,N,N,False
 2009,White Sox,0.258,0.153,7.7,4.3,-48.2,AL,79,83,N,N,N,N,False
@@ -520,69 +392,46 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1992,White Sox,0.261,0.122,26.9,5.0,17.8,AL,86,76,N,,N,N,False
 1987,Giants,0.26,0.17,26.1,4.5,56.3,NL,90,72,Y,,N,N,True
 1993,Cubs,0.27,0.143,26.6,4.5,82.3,NL,84,78,N,,N,N,False
-1979,Yankees,0.266,0.139,19.7,4.2,2.8,AL,89,71,N,,N,N,False
 1996,Padres,0.265,0.137,20.3,4.2,17.4,NL,91,71,Y,N,N,N,True
 1989,Yankees,0.269,0.122,24.4,4.4,0.0,AL,74,87,N,,N,N,False
 1989,Rangers,0.263,0.132,20.5,4.9,-21.5,AL,83,79,N,,N,N,False
 2003,Brewers,0.256,0.163,9.6,4.4,-26.6,NL,68,94,N,N,N,N,False
 1990,Mets,0.256,0.152,26.4,4.6,4.9,NL,91,71,N,,N,N,False
-1985,Twins,0.264,0.143,19.5,4.2,19.7,AL,77,85,N,,N,N,False
-1972,Cubs,0.257,0.131,19.6,4.2,8.1,NL,85,70,N,,N,N,False
-1972,Pirates,0.274,0.123,32.2,4.1,48.0,NL,96,59,Y,,N,N,True
-1976,Pirates,0.267,0.123,28.3,5.4,47.2,NL,92,70,N,,N,N,False
 2005,Rockies,0.267,0.144,10.3,4.1,30.5,NL,67,95,N,N,N,N,False
-1978,Twins,0.267,0.108,19.8,4.4,-15.5,AL,73,89,N,,N,N,False
-1970,Twins,0.262,0.141,25.6,4.1,89.6,AL,98,64,Y,,N,N,True
-1970,Twins,0.239,0.12,20.3,3.8,75.6,AL,98,64,Y,,N,N,True
 2009,Cardinals,0.263,0.152,22.7,4.3,30.9,NL,91,71,Y,N,N,N,True
 2014,Blue Jays,0.259,0.155,24.4,4.2,-21.3,AL,83,79,N,N,N,N,False
 1989,Blue Jays,0.26,0.138,21.9,5.1,-18.7,AL,89,73,Y,,N,N,True
 2010,Diamondbacks,0.25,0.166,21.5,4.5,78.0,NL,65,97,N,N,N,N,False
 1996,Tigers,0.256,0.165,0.2,4.1,-97.7,AL,53,109,N,N,N,N,False
 2013,Angels,0.264,0.15,25.6,4.5,-24.0,AL,78,84,N,N,N,N,False
-1972,Braves,0.258,0.124,18.7,3.0,-12.1,NL,70,84,N,,N,N,False
-1978,Yankees,0.267,0.122,27.8,4.5,28.2,AL,100,63,Y,,Y,Y,True
 2011,Royals,0.275,0.14,20.4,5.2,-13.7,AL,71,91,N,N,N,N,False
 1987,Indians,0.263,0.158,10.6,4.8,-68.1,AL,61,101,N,,N,N,False
 2007,Astros,0.26,0.152,12.4,4.0,5.3,NL,73,89,N,N,N,N,False
-1982,Yankees,0.256,0.142,11.7,3.9,-97.4,AL,79,83,N,,N,N,False
-1981,Orioles,0.251,0.128,13.9,3.1,-20.5,AL,59,46,N,,N,N,False
-1984,Cubs,0.26,0.136,21.3,5.5,18.1,NL,96,65,Y,,N,N,True
 1998,Padres,0.253,0.155,17.0,4.3,-14.5,NL,98,64,Y,N,Y,N,True
 2006,Padres,0.263,0.154,26.1,5.1,65.1,NL,88,74,Y,N,N,N,True
-1984,Indians,0.265,0.119,17.1,4.7,-25.8,AL,75,87,N,,N,N,False
-1981,Cardinals,0.265,0.113,20.4,5.4,54.5,NL,59,43,N,,N,N,False
 1987,Braves,0.258,0.145,13.8,4.4,6.0,NL,69,92,N,,N,N,False
 1997,Mets,0.262,0.143,22.9,4.3,81.7,NL,88,74,N,N,N,N,False
 2015,Astros,0.25,0.187,25.1,4.7,-20.9,AL,86,76,N,Y,N,N,True
 2014,Pirates,0.259,0.145,27.2,4.4,1.2,NL,88,74,N,Y,N,N,True
-1965,Red Sox,0.251,0.149,19.3,3.8,-1.6,AL,62,100,,,N,N,False
 1990,Royals,0.267,0.128,13.5,4.7,-75.9,AL,75,86,N,,N,N,False
 2008,Angels,0.268,0.145,17.1,4.7,-7.9,AL,100,62,Y,N,N,N,True
 2005,White Sox,0.262,0.163,18.0,4.5,13.8,AL,99,63,Y,N,Y,Y,True
 2005,Tigers,0.272,0.157,20.9,4.5,5.9,AL,71,91,N,N,N,N,False
 2001,Blue Jays,0.263,0.167,15.7,5.3,-18.5,AL,80,82,N,N,N,N,False
-1975,Brewers,0.25,0.139,13.8,3.7,-63.6,AL,68,94,N,,N,N,False
 1995,Braves,0.25,0.16,17.6,4.1,56.8,NL,90,54,Y,N,Y,Y,True
 2009,Cubs,0.255,0.152,15.7,3.8,45.9,NL,83,78,N,N,N,N,False
 2008,Diamondbacks,0.251,0.164,9.2,4.6,-23.6,NL,82,80,N,N,N,N,False
 2000,Marlins,0.262,0.147,14.6,5.1,30.1,NL,79,82,N,N,N,N,False
-1982,Pirates,0.273,0.134,27.7,5.1,36.7,NL,84,78,N,,N,N,False
 1993,Pirates,0.267,0.126,19.3,4.7,17.4,NL,75,87,N,,N,N,False
 1990,Angels,0.26,0.131,16.3,3.8,-63.1,AL,80,82,N,,N,N,False
 2013,Rockies,0.27,0.149,14.6,5.0,24.5,NL,74,88,N,N,N,N,False
 2013,Indians,0.255,0.155,19.7,4.6,-59.0,AL,92,70,N,Y,N,N,True
-1980,Cardinals,0.275,0.125,27.1,5.0,59.2,NL,74,88,N,,N,N,False
 2012,Expos/Nationals,0.261,0.166,24.8,4.6,39.3,NL,98,64,Y,N,N,N,True
-1978,Rangers,0.253,0.128,21.8,5.2,-2.3,AL,87,75,N,,N,N,False
 1991,Athletics,0.248,0.141,24.1,4.7,-0.6,AL,84,78,N,,N,N,False
-1979,Cardinals,0.278,0.123,26.6,5.2,64.4,NL,86,76,N,,N,N,False
-1984,Orioles,0.252,0.139,24.7,3.3,37.6,AL,85,77,N,,N,N,False
 2013,Devil Rays/Rays,0.257,0.151,28.9,3.7,15.1,AL,92,71,N,Y,N,N,True
 1992,Rangers,0.25,0.142,14.7,3.8,-70.9,AL,77,85,N,,N,N,False
 1991,Royals,0.264,0.129,14.7,4.8,-48.9,AL,82,80,N,,N,N,False
 1997,Pirates,0.262,0.142,6.5,5.7,-51.4,NL,79,83,N,N,N,N,False
-1980,Phillies,0.27,0.13,25.3,5.3,41.7,NL,91,71,Y,,Y,Y,True
 2011,Rockies,0.258,0.152,13.5,5.0,25.6,NL,73,89,N,N,N,N,False
 1995,Tigers,0.247,0.157,3.2,4.2,-72.6,AL,60,84,N,N,N,N,False
 1987,Royals,0.262,0.15,14.5,5.0,-27.8,AL,83,79,N,,N,N,False
@@ -591,27 +440,18 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2009,Diamondbacks,0.253,0.165,16.1,5.0,34.7,NL,70,92,N,N,N,N,False
 1991,Braves,0.258,0.135,14.3,5.0,-62.3,NL,94,68,Y,,Y,N,True
 1995,Padres,0.272,0.125,10.0,4.7,-53.0,NL,70,74,N,N,N,N,False
-1973,Reds,0.254,0.129,31.4,4.9,80.4,NL,99,63,Y,,N,N,True
-1963,Cardinals,0.272,0.132,31.5,5.0,66.0,NL,93,69,,,N,N,False
-1973,Brewers,0.253,0.135,20.0,4.6,-21.1,AL,74,88,N,,N,N,False
 1993,Athletics,0.254,0.14,14.9,4.3,-60.4,AL,68,94,N,,N,N,False
 1987,Orioles,0.258,0.16,14.0,3.6,-30.6,AL,67,95,N,,N,N,False
 2005,Blue Jays,0.265,0.142,19.1,4.6,13.6,AL,80,82,N,N,N,N,False
 2013,Orioles,0.26,0.171,26.8,3.9,29.7,AL,85,77,N,N,N,N,False
 2002,Marlins,0.261,0.142,19.1,4.9,1.7,NL,79,83,N,N,N,N,False
 2012,Diamondbacks,0.259,0.159,20.7,4.6,36.0,NL,81,81,N,N,N,N,False
-1970,Pirates,0.27,0.136,24.9,4.9,68.9,NL,89,73,Y,,N,N,True
 2003,Angels,0.268,0.144,20.2,4.7,27.1,AL,77,85,N,N,N,N,False
 2005,Athletics,0.262,0.145,23.0,3.3,13.7,AL,88,74,N,N,N,N,False
-1985,Athletics,0.264,0.137,21.3,4.6,-28.1,AL,77,85,N,,N,N,False
-1975,Yankees,0.264,0.118,23.3,4.6,20.8,AL,83,77,N,,N,N,False
-1975,Cubs,0.259,0.109,8.2,4.1,-44.4,NL,75,87,N,,N,N,False
 2006,Royals,0.271,0.14,18.3,4.5,37.7,AL,62,100,N,N,N,N,False
-1982,Indians,0.262,0.111,13.9,4.6,-39.0,AL,78,84,N,,N,N,False
 2015,Yankees,0.251,0.17,20.9,3.9,-35.1,AL,87,75,N,Y,N,N,True
 1997,Expos/Nationals,0.258,0.167,17.9,4.2,64.2,NL,78,84,N,N,N,N,False
 1986,Mariners,0.253,0.145,4.1,4.3,-111.5,AL,67,95,N,,N,N,False
-1963,Giants,0.258,0.155,29.6,3.7,0.0,NL,88,74,,,N,N,False
 1991,Orioles,0.254,0.147,22.3,3.6,14.6,AL,67,95,N,,N,N,False
 2001,Marlins,0.264,0.159,21.2,4.5,52.7,NL,76,86,N,N,N,N,False
 1986,Orioles,0.258,0.137,17.1,3.4,-28.8,AL,73,89,N,,N,N,False
@@ -620,7 +460,6 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2010,Royals,0.274,0.126,10.4,4.4,-69.5,AL,67,95,N,N,N,N,False
 1989,Athletics,0.261,0.12,27.4,4.7,-1.4,AL,99,63,Y,,Y,Y,True
 2014,Orioles,0.256,0.166,28.7,3.6,41.9,AL,96,66,Y,N,N,N,True
-1970,Astros,0.259,0.131,16.0,4.9,-24.1,NL,79,83,N,,N,N,False
 1991,Reds,0.258,0.145,23.4,4.6,26.2,NL,74,88,N,,N,N,False
 2006,Mariners,0.272,0.153,19.7,5.0,26.5,AL,78,84,N,N,N,N,False
 1996,Astros,0.262,0.135,22.2,5.2,50.4,NL,82,80,N,N,N,N,False
@@ -628,32 +467,22 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2002,Braves,0.26,0.15,20.5,4.1,60.4,NL,101,59,Y,N,N,N,True
 1991,Blue Jays,0.257,0.143,19.8,5.2,3.0,AL,91,71,Y,,N,N,True
 2006,Brewers,0.258,0.162,15.9,3.9,47.7,NL,75,87,N,N,N,N,False
-1975,Rangers,0.256,0.115,16.9,3.7,-31.8,AL,79,83,N,,N,N,False
 1996,Royals,0.267,0.132,6.4,5.4,-19.7,AL,75,86,N,N,N,N,False
-1977,Tigers,0.264,0.146,13.4,4.1,-32.3,AL,74,88,N,,N,N,False
 2003,Athletics,0.254,0.162,12.7,3.9,-49.1,AL,96,66,Y,N,N,N,True
-1966,Orioles,0.257,0.151,30.8,3.9,53.0,AL,97,63,,,Y,Y,False
 2013,Cardinals,0.269,0.133,21.3,3.8,-6.4,NL,97,65,Y,N,Y,N,True
-1972,Reds,0.251,0.129,35.5,5.1,83.6,NL,95,59,Y,,Y,N,True
 1995,Mets,0.267,0.133,14.5,4.2,12.9,NL,69,75,N,N,N,N,False
 1990,Reds,0.265,0.134,20.3,5.2,17.0,NL,91,71,Y,,Y,Y,True
 2008,Astros,0.263,0.152,23.7,4.4,90.4,NL,86,75,N,N,N,N,False
 2002,Reds,0.253,0.155,16.6,4.3,36.4,NL,78,84,N,N,N,N,False
 2001,Dodgers,0.255,0.17,18.2,4.4,9.0,NL,86,76,N,N,N,N,False
-1985,Angels,0.251,0.135,21.8,4.4,16.5,AL,90,72,N,,N,N,False
-1976,Royals,0.269,0.103,25.3,5.8,17.8,AL,90,72,Y,,N,N,True
 1995,Dodgers,0.264,0.136,18.2,5.0,11.1,NL,78,66,Y,N,N,N,True
 1996,Cardinals,0.267,0.14,24.8,5.0,121.8,NL,88,74,Y,N,N,N,True
 2008,Blue Jays,0.264,0.135,16.1,4.4,10.3,AL,86,76,N,N,N,N,False
-1973,Pirates,0.261,0.144,21.5,3.4,13.4,NL,80,82,N,,N,N,False
-1978,Phillies,0.258,0.131,32.0,4.9,110.4,NL,90,72,Y,,N,N,True
 2015,Dodgers,0.25,0.163,27.4,3.8,33.5,NL,92,70,Y,N,N,N,True
 2007,Pirates,0.263,0.149,12.5,4.2,16.8,NL,68,94,N,N,N,N,False
-1983,Twins,0.261,0.14,14.7,4.0,-6.8,AL,70,92,N,,N,N,False
 2011,Reds,0.256,0.152,28.7,4.1,71.0,NL,79,83,N,N,N,N,False
 2010,Cardinals,0.263,0.139,23.1,4.0,35.6,NL,86,76,N,N,N,N,False
 1987,Phillies,0.254,0.157,19.6,4.9,57.9,NL,80,82,N,,N,N,False
-1970,Athletics,0.249,0.143,27.9,4.2,75.7,AL,89,73,N,,N,N,False
 1994,Athletics,0.26,0.14,11.6,4.5,12.2,AL,51,63,,,,,False
 1999,Padres,0.252,0.141,17.6,4.7,61.1,NL,74,88,N,N,N,N,False
 1993,Red Sox,0.264,0.131,17.1,4.1,50.8,AL,80,82,N,,N,N,False
@@ -662,31 +491,17 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2012,White Sox,0.255,0.167,19.0,4.7,-2.2,AL,85,77,N,N,N,N,False
 1986,Phillies,0.253,0.147,20.9,5.2,20.0,NL,86,75,N,,N,N,False
 1996,Expos/Nationals,0.262,0.144,16.8,4.8,44.8,NL,88,74,N,N,N,N,False
-1973,Tigers,0.254,0.136,13.9,3.1,-41.4,AL,85,77,N,,N,N,False
-1973,Expos/Nationals,0.25,0.114,22.4,3.4,73.9,NL,79,83,N,,N,N,False
-1969,Athletics,0.25,0.127,29.5,4.5,75.1,AL,88,74,N,,N,N,False
-1980,Angels,0.265,0.114,10.4,4.2,-80.6,AL,65,95,N,,N,N,False
 2008,Dodgers,0.264,0.134,13.9,4.7,-9.8,NL,84,78,Y,N,N,N,True
-1967,Red Sox,0.255,0.14,27.3,4.2,67.8,AL,92,70,,,Y,N,False
 1988,Mariners,0.257,0.141,14.2,4.2,-33.9,AL,68,93,N,,N,N,False
 1995,Royals,0.26,0.136,11.0,5.0,22.9,AL,70,74,N,N,N,N,False
-1977,Orioles,0.261,0.132,26.4,4.0,24.2,AL,97,64,N,,N,N,False
 2001,Padres,0.252,0.147,17.7,4.9,-7.1,NL,79,83,N,N,N,N,False
-1966,Tigers,0.251,0.155,28.3,3.8,43.9,AL,88,74,,,N,N,False
 1998,Brewers,0.26,0.136,16.5,3.7,55.2,NL,74,88,N,N,N,N,False
-1965,Braves,0.256,0.16,31.7,4.1,69.4,NL,86,76,,,N,N,False
 2015,Red Sox,0.265,0.149,18.8,4.3,-10.0,AL,78,84,N,N,N,N,False
-1983,Cardinals,0.27,0.115,26.3,5.8,44.0,NL,79,83,N,,N,N,False
-1979,Expos/Nationals,0.264,0.144,26.8,4.9,70.4,NL,95,65,N,,N,N,False
-1981,Royals,0.267,0.115,13.0,4.8,-8.5,AL,50,53,Y,,N,N,True
 1988,Mets,0.256,0.14,29.9,4.6,7.6,NL,100,60,Y,,N,N,True
 2000,Devil Rays/Rays,0.257,0.142,7.4,4.1,-2.5,AL,69,92,N,N,N,N,False
-1971,Giants,0.247,0.131,26.8,4.7,30.9,NL,90,72,Y,,N,N,True
 2015,Rockies,0.265,0.167,9.5,5.1,6.7,NL,68,94,N,N,N,N,False
 1990,Giants,0.262,0.134,23.4,4.5,8.8,NL,85,77,N,,N,N,False
-1970,Dodgers,0.27,0.112,29.4,5.6,81.4,NL,87,74,N,,N,N,False
 2003,Cubs,0.259,0.157,16.8,4.0,50.9,NL,88,74,Y,N,N,N,True
-1975,Giants,0.259,0.106,13.1,4.5,-13.8,NL,80,81,N,,N,N,False
 2000,Padres,0.254,0.148,15.3,5.0,31.0,NL,76,86,N,N,N,N,False
 2014,Angels,0.259,0.147,30.0,4.4,3.6,AL,98,64,Y,N,N,N,True
 1996,Mets,0.27,0.143,25.2,5.0,120.2,NL,71,91,N,N,N,N,False
@@ -694,239 +509,143 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2001,Reds,0.262,0.157,9.4,4.2,-7.2,NL,66,96,N,N,N,N,False
 2004,Marlins,0.264,0.143,18.2,4.5,30.1,NL,83,79,N,N,N,N,False
 2015,Rangers,0.257,0.156,22.4,4.7,4.4,AL,88,74,Y,N,N,N,True
-1975,Orioles,0.252,0.121,29.1,4.3,62.1,AL,90,69,N,,N,N,False
-1969,Cubs,0.253,0.131,17.2,3.6,24.7,NL,92,70,N,,N,N,False
 2009,Athletics,0.262,0.135,15.5,4.7,-20.3,AL,75,87,N,N,N,N,False
 2009,Mets,0.27,0.124,15.0,5.1,1.0,NL,70,92,N,N,N,N,False
-1974,Astros,0.263,0.116,23.7,4.5,33.6,NL,81,81,N,,N,N,False
 2000,Phillies,0.251,0.148,11.8,4.8,51.5,NL,65,97,N,N,N,N,False
-1971,Athletics,0.252,0.132,32.8,3.8,79.6,AL,101,60,Y,,N,N,True
-1982,Expos/Nationals,0.262,0.134,28.2,5.2,37.0,NL,86,76,N,,N,N,False
 1990,Indians,0.267,0.124,17.9,4.9,-0.3,AL,77,85,N,,N,N,False
 1989,White Sox,0.271,0.112,15.7,4.4,-49.5,AL,69,92,N,,N,N,False
 2001,Brewers,0.251,0.175,14.5,4.1,31.8,NL,68,94,N,N,N,N,False
 2002,Indians,0.249,0.163,10.4,3.9,-50.4,AL,74,88,N,N,N,N,False
 2013,Blue Jays,0.252,0.158,16.6,4.4,-46.6,AL,74,88,N,N,N,N,False
-1983,Angels,0.26,0.132,12.0,3.2,-59.1,AL,70,92,N,,N,N,False
-1981,Tigers,0.256,0.111,19.2,4.3,47.3,AL,60,49,N,,N,N,False
 1994,Cubs,0.259,0.145,10.8,4.4,35.7,NL,49,64,,,,,False
 1990,Mariners,0.259,0.114,20.7,4.0,31.2,AL,77,85,N,,N,N,False
 1995,Giants,0.253,0.151,25.4,5.3,112.3,NL,67,77,N,N,N,N,False
-1977,Indians,0.269,0.112,14.3,4.1,-27.8,AL,71,90,N,,N,N,False
 2004,Blue Jays,0.26,0.143,12.7,4.0,26.4,AL,67,94,N,N,N,N,False
 1994,Marlins,0.266,0.13,13.6,4.3,49.5,NL,51,64,,,,,False
 2007,Diamondbacks,0.25,0.163,10.0,5.1,34.1,NL,90,72,Y,N,N,N,True
 2006,Cubs,0.268,0.154,13.7,5.0,65.3,NL,66,96,N,N,N,N,False
-1975,Cardinals,0.273,0.103,18.3,4.8,1.2,NL,82,80,N,,N,N,False
 2011,Orioles,0.257,0.156,10.2,3.9,-63.0,AL,69,93,N,N,N,N,False
 2005,Mets,0.258,0.158,18.1,5.1,13.2,NL,83,79,N,N,N,N,False
 2010,Giants,0.257,0.151,26.3,3.9,94.2,NL,92,70,Y,N,Y,Y,True
 2006,Giants,0.259,0.163,15.7,4.7,73.5,NL,76,85,N,N,N,N,False
-1969,Tigers,0.242,0.146,22.5,3.4,68.2,AL,90,72,N,,N,N,False
 2007,Padres,0.251,0.16,15.8,4.0,-16.6,NL,89,74,N,N,N,N,False
 2002,Cubs,0.246,0.167,17.2,4.1,27.5,NL,67,95,N,N,N,N,False
-1983,Cubs,0.261,0.141,15.3,4.6,7.8,NL,71,91,N,,N,N,False
 1987,White Sox,0.258,0.158,23.0,5.2,78.7,AL,77,85,N,,N,N,False
 1997,Brewers,0.26,0.138,13.2,4.4,32.0,AL,78,83,N,N,N,N,False
-1983,Indians,0.265,0.104,9.7,4.3,-71.9,AL,70,92,N,,N,N,False
 1990,Rangers,0.259,0.117,19.1,4.5,-1.8,AL,83,79,N,,N,N,False
 1987,Angels,0.252,0.148,19.3,4.8,19.4,AL,75,87,N,,N,N,False
-1980,Reds,0.262,0.124,24.4,5.3,41.0,NL,89,73,N,,N,N,False
 1993,Reds,0.264,0.132,13.5,4.9,-17.3,NL,73,89,N,,N,N,False
-1980,Dodgers,0.262,0.126,26.9,4.0,57.9,NL,92,71,N,,N,N,False
 2011,Devil Rays/Rays,0.244,0.159,29.4,5.2,43.7,AL,91,71,N,Y,N,N,True
 2011,Mets,0.264,0.127,19.3,5.1,-39.9,NL,77,85,N,N,N,N,False
 1989,Orioles,0.252,0.127,21.9,4.6,-3.6,AL,87,75,N,,N,N,False
-1983,Royals,0.271,0.126,15.1,5.9,-45.4,AL,79,83,N,,N,N,False
 1994,Padres,0.275,0.126,2.4,4.3,-63.2,NL,47,70,,,,,False
 1992,Brewers,0.268,0.107,19.5,5.5,-5.9,AL,92,70,N,,N,N,False
-1984,Royals,0.268,0.131,21.1,4.9,41.8,AL,84,78,Y,,N,N,True
 1995,Phillies,0.262,0.122,14.9,4.3,41.6,NL,69,75,N,N,N,N,False
-1965,Twins,0.254,0.144,32.0,4.9,106.1,AL,102,60,,,Y,N,False
-1965,Twins,0.228,0.122,8.0,3.5,-13.7,AL,102,60,,,Y,N,False
 1993,Angels,0.26,0.12,6.7,4.5,-59.6,AL,71,91,N,,N,N,False
 1992,Indians,0.266,0.117,19.2,4.4,-0.6,AL,76,86,N,,N,N,False
 1991,Mariners,0.255,0.128,12.1,4.4,-53.4,AL,83,79,N,,N,N,False
 2000,Brewers,0.246,0.158,11.7,4.0,67.0,NL,73,89,N,N,N,N,False
 1992,Reds,0.26,0.122,20.5,4.7,10.5,NL,90,72,N,,N,N,False
-1978,Angels,0.259,0.111,17.1,4.0,-45.7,AL,87,75,N,,N,N,False
 2011,Blue Jays,0.249,0.164,15.5,5.1,-42.2,AL,81,81,N,N,N,N,False
 1993,Twins,0.264,0.121,5.5,4.0,-63.3,AL,71,91,N,,N,N,False
-1984,Mariners,0.258,0.126,9.1,4.4,-67.4,AL,74,88,N,,N,N,False
-1970,Cardinals,0.263,0.116,11.2,5.1,-38.9,NL,76,86,N,,N,N,False
 1987,Pirates,0.264,0.138,26.6,5.0,114.4,NL,80,82,N,,N,N,False
 2015,Diamondbacks,0.264,0.15,24.3,5.3,53.8,NL,79,83,N,N,N,N,False
 2008,Reds,0.247,0.161,10.2,3.9,5.0,NL,74,88,N,N,N,N,False
-1978,Indians,0.261,0.118,13.5,3.9,-40.4,AL,69,90,N,,N,N,False
-1981,Brewers,0.257,0.134,14.9,3.9,-10.3,AL,62,47,Y,,N,N,True
-1974,Athletics,0.247,0.127,26.0,5.1,16.0,AL,90,72,Y,,Y,Y,True
-1971,Cubs,0.258,0.12,13.1,3.5,-10.5,NL,83,79,N,,N,N,False
 1990,Twins,0.265,0.12,12.4,4.6,-25.0,AL,74,88,N,,N,N,False
-1985,Cardinals,0.264,0.114,34.3,6.6,93.0,NL,101,61,Y,,Y,N,True
-1971,White Sox,0.25,0.122,13.9,3.8,-16.7,AL,79,83,N,,N,N,False
-1968,Reds,0.273,0.116,27.1,3.7,-10.8,NL,83,79,,,N,N,False
 1998,Royals,0.263,0.136,7.3,5.1,-23.4,AL,72,89,N,N,N,N,False
 2005,Angels,0.27,0.139,19.6,5.1,17.0,AL,95,67,Y,N,N,N,True
 1988,Royals,0.259,0.131,16.9,5.2,-34.0,AL,84,77,N,,N,N,False
 1986,Athletics,0.252,0.138,23.1,4.8,18.4,AL,76,86,N,,N,N,False
 1998,Mets,0.259,0.135,17.5,3.6,47.1,NL,88,74,N,N,N,N,False
 2010,Marlins,0.254,0.149,18.0,4.9,16.8,NL,80,82,N,N,N,N,False
-1973,Indians,0.256,0.132,9.3,3.6,-73.0,AL,71,91,N,,N,N,False
-1973,Yankees,0.261,0.116,20.4,2.9,-6.9,AL,80,82,N,,N,N,False
 2015,Giants,0.267,0.139,31.1,4.7,67.6,NL,84,78,N,N,N,N,False
 2005,Padres,0.257,0.134,20.3,4.6,17.7,NL,82,80,Y,N,N,N,True
-1974,Royals,0.259,0.104,14.7,4.8,-45.3,AL,77,85,N,,N,N,False
-1977,Cubs,0.266,0.121,5.9,3.8,-11.8,NL,81,81,N,,N,N,False
 2013,Braves,0.249,0.153,25.8,3.7,52.5,NL,96,66,Y,N,N,N,True
 1996,Marlins,0.257,0.136,20.7,4.3,91.2,NL,80,82,N,N,N,N,False
-1970,Mets,0.249,0.12,24.1,4.7,83.5,NL,83,79,N,,N,N,False
 2015,Royals,0.269,0.144,23.7,5.1,38.7,AL,95,67,Y,N,Y,Y,True
 1990,Dodgers,0.262,0.121,22.5,4.8,18.3,NL,86,76,N,,N,N,False
-1980,Athletics,0.259,0.126,27.6,4.9,77.5,AL,83,79,N,,N,N,False
 2005,Astros,0.256,0.152,18.1,4.7,58.5,NL,89,73,N,Y,Y,N,True
-1977,Cardinals,0.27,0.118,19.0,5.0,68.7,NL,83,79,N,,N,N,False
-1967,Tigers,0.243,0.133,33.1,3.8,94.7,AL,91,71,,,N,N,False
 2010,Cubs,0.257,0.145,14.4,3.9,29.3,NL,75,87,N,N,N,N,False
 2001,Angels,0.261,0.144,17.8,4.5,22.4,AL,75,87,N,N,N,N,False
-1975,White Sox,0.255,0.103,10.7,4.4,-61.3,AL,75,86,N,,N,N,False
-1980,Expos/Nationals,0.257,0.131,23.1,6.2,26.2,NL,90,72,N,,N,N,False
-1974,Cardinals,0.265,0.099,23.8,5.2,58.3,NL,86,75,N,,N,N,False
-1969,Giants,0.242,0.119,25.0,4.1,25.5,NL,90,72,N,,N,N,False
 2003,Padres,0.261,0.127,22.4,4.0,60.8,NL,64,98,N,N,N,N,False
-1974,Cubs,0.251,0.114,-0.4,4.0,-111.1,NL,66,96,N,,N,N,False
-1984,White Sox,0.247,0.148,15.4,4.7,-6.6,AL,74,88,N,,N,N,False
 1994,Phillies,0.262,0.128,7.3,4.8,-3.9,NL,54,61,,,,,False
-1981,Dodgers,0.262,0.112,16.8,4.2,16.5,NL,63,47,Y,,Y,Y,True
 1989,Royals,0.261,0.112,15.4,5.2,-56.4,AL,92,70,N,,N,N,False
-1982,Twins,0.257,0.138,15.2,3.6,35.2,AL,60,102,N,,N,N,False
 2009,Royals,0.259,0.146,2.0,5.0,-78.6,AL,65,97,N,N,N,N,False
 1989,Mariners,0.257,0.126,15.9,4.1,-13.7,AL,73,89,N,,N,N,False
-1982,Dodgers,0.264,0.124,26.4,4.8,24.2,NL,88,74,N,,N,N,False
 1988,Tigers,0.25,0.128,22.5,4.3,13.7,AL,88,74,N,,N,N,False
-1976,Athletics,0.246,0.115,22.0,5.8,-37.7,AL,87,74,N,,N,N,False
 1990,Orioles,0.245,0.125,21.1,3.9,18.0,AL,76,85,N,,N,N,False
 2001,Braves,0.261,0.152,21.0,4.0,99.8,NL,88,74,Y,N,N,N,True
 1995,Pirates,0.259,0.137,6.9,4.2,-9.3,NL,58,86,N,N,N,N,False
 2007,Twins,0.264,0.127,14.1,4.8,-0.4,AL,79,83,N,N,N,N,False
 1993,Royals,0.263,0.134,11.4,4.2,10.2,AL,84,78,N,,N,N,False
-1964,Tigers,0.253,0.142,23.7,4.5,91.3,AL,85,77,,,N,N,False
 1987,Cardinals,0.263,0.115,22.1,6.2,53.3,NL,95,67,Y,,Y,N,True
 2003,Orioles,0.267,0.138,15.4,4.3,-21.2,AL,71,91,N,N,N,N,False
-1983,Athletics,0.262,0.119,19.9,5.3,-14.3,AL,74,88,N,,N,N,False
 2004,Mariners,0.27,0.127,17.3,4.2,26.1,AL,63,99,N,N,N,N,False
 1996,Giants,0.253,0.135,19.0,4.3,71.7,NL,68,94,N,N,N,N,False
-1973,White Sox,0.256,0.116,7.6,4.1,-87.1,AL,77,85,N,,N,N,False
 2005,Dodgers,0.253,0.142,13.6,3.6,29.0,NL,71,91,N,N,N,N,False
 2013,Dodgers,0.264,0.133,27.8,3.9,58.8,NL,92,70,Y,N,N,N,True
-1985,Cubs,0.254,0.136,18.2,5.1,12.8,NL,77,84,N,,N,N,False
 1987,Expos/Nationals,0.265,0.135,16.1,5.3,25.5,NL,91,71,N,,N,N,False
 1999,Marlins,0.263,0.132,10.8,4.6,44.3,NL,64,98,N,N,N,N,False
-1985,Indians,0.265,0.12,7.5,4.7,-70.0,AL,60,102,N,,N,N,False
 1986,Reds,0.254,0.134,17.6,5.2,11.5,NL,86,76,N,,N,N,False
-1963,Tigers,0.253,0.13,23.8,4.4,67.3,AL,79,83,,,N,N,False
 1997,Cardinals,0.255,0.141,20.1,5.2,98.6,NL,73,89,N,N,N,N,False
 1998,Twins,0.266,0.123,-4.5,4.6,-122.9,AL,70,92,N,N,N,N,False
 1998,Phillies,0.264,0.131,16.0,4.7,69.6,NL,75,87,N,N,N,N,False
-1974,Orioles,0.256,0.113,26.6,4.7,25.1,AL,91,71,Y,,N,N,True
-1974,Expos/Nationals,0.254,0.097,20.5,4.6,62.4,NL,79,82,N,,N,N,False
-1983,Expos/Nationals,0.264,0.122,29.0,5.1,79.6,NL,82,80,N,,N,N,False
-1964,Cardinals,0.272,0.12,23.6,4.6,56.5,NL,93,69,,,Y,Y,False
-1972,Red Sox,0.248,0.129,18.6,4.4,-12.5,AL,85,70,N,,N,N,False
-1970,Indians,0.249,0.145,13.8,2.7,29.7,AL,76,86,N,,N,N,False
-1974,Yankees,0.263,0.106,21.6,3.7,3.1,AL,89,73,N,,N,N,False
-1969,Braves,0.258,0.121,25.2,3.5,88.1,NL,93,69,Y,,N,N,True
-1982,Braves,0.256,0.127,17.9,4.5,3.7,NL,89,73,Y,,N,N,True
 2008,Pirates,0.258,0.145,12.5,4.0,11.3,NL,67,95,N,N,N,N,False
 2002,Dodgers,0.264,0.146,23.7,4.6,73.4,NL,92,70,N,N,N,N,False
-1975,Dodgers,0.249,0.117,31.4,4.6,120.6,NL,88,74,N,,N,N,False
 2014,Expos/Nationals,0.253,0.14,25.5,4.7,39.5,NL,96,66,Y,N,N,N,True
-1963,Red Sox,0.252,0.149,19.6,3.3,59.2,AL,76,85,,,N,N,False
-1977,Expos/Nationals,0.26,0.142,21.0,4.6,61.7,NL,75,87,N,,N,N,False
-1984,Giants,0.265,0.109,15.5,4.1,-70.2,NL,66,96,N,,N,N,False
 1990,Braves,0.25,0.146,11.2,4.3,-24.0,NL,65,97,N,,N,N,False
 1988,Angels,0.261,0.124,15.4,4.3,-46.9,AL,75,87,N,,N,N,False
 2012,Orioles,0.247,0.17,12.7,3.7,-37.8,AL,93,69,N,Y,N,N,True
 1992,Pirates,0.255,0.126,25.1,5.0,43.0,NL,96,66,Y,,N,N,True
 2007,White Sox,0.246,0.158,2.9,3.8,-55.7,AL,72,90,N,N,N,N,False
 2006,Devil Rays/Rays,0.255,0.165,10.3,4.8,-19.0,AL,61,101,N,N,N,N,False
-1968,Tigers,0.235,0.15,34.3,3.4,95.4,AL,103,59,,,Y,Y,False
 2002,Royals,0.256,0.143,7.2,5.1,-35.1,AL,62,100,N,N,N,N,False
 2014,Twins,0.254,0.135,18.1,4.6,-59.1,AL,70,92,N,N,N,N,False
 1993,Expos/Nationals,0.257,0.129,18.4,5.6,16.8,NL,94,68,N,,N,N,False
 2003,Expos/Nationals,0.258,0.143,9.6,4.6,21.3,NL,83,79,N,N,N,N,False
 1992,Braves,0.254,0.134,25.2,5.1,79.2,NL,98,64,Y,,Y,N,True
 1986,Cubs,0.256,0.141,9.9,4.6,-25.5,NL,70,90,N,,N,N,False
-1977,Angels,0.255,0.13,14.7,4.9,-47.7,AL,74,88,N,,N,N,False
 1999,Angels,0.256,0.139,9.8,3.8,52.6,AL,70,92,N,N,N,N,False
 2012,Red Sox,0.26,0.155,19.2,4.2,15.7,AL,69,93,N,N,N,N,False
-1984,Angels,0.249,0.132,15.1,4.1,-15.9,AL,81,81,N,,N,N,False
-1983,Pirates,0.264,0.119,18.7,4.3,29.1,NL,84,78,N,,N,N,False
-1981,Rangers,0.27,0.099,15.6,3.7,22.7,AL,57,48,N,,N,N,False
-1972,Giants,0.244,0.14,23.1,5.1,28.3,NL,69,86,N,,N,N,False
-1985,Dodgers,0.261,0.122,28.5,4.6,52.2,NL,95,67,Y,,N,N,True
 1993,Brewers,0.258,0.12,10.9,4.3,5.6,AL,69,93,N,,N,N,False
 1989,Cubs,0.261,0.126,20.4,5.1,29.8,NL,93,69,Y,,N,N,True
 1989,Brewers,0.259,0.124,13.7,5.1,-56.4,AL,81,81,N,,N,N,False
 1996,Cubs,0.251,0.15,21.7,4.5,130.6,NL,76,86,N,N,N,N,False
 2001,Tigers,0.26,0.15,11.3,5.6,-52.0,AL,66,96,N,N,N,N,False
 1992,Cardinals,0.262,0.113,23.0,5.1,34.9,NL,83,79,N,,N,N,False
-1978,Pirates,0.257,0.128,18.1,5.7,3.6,NL,88,73,N,,N,N,False
 1991,Yankees,0.256,0.131,10.6,4.4,-58.0,AL,71,91,N,,N,N,False
 1992,Phillies,0.253,0.124,22.3,5.2,14.7,NL,70,92,N,,N,N,False
 1986,Brewers,0.255,0.13,6.8,4.6,-73.9,AL,77,84,N,,N,N,False
-1980,Pirates,0.266,0.122,20.8,5.3,60.7,NL,83,79,N,,N,N,False
 2013,Reds,0.249,0.142,24.0,3.7,67.1,NL,90,72,N,Y,N,N,True
-1963,Yankees,0.252,0.151,27.3,3.8,91.7,AL,104,57,,,Y,N,False
 1999,Twins,0.264,0.12,1.3,4.5,-23.7,AL,63,97,N,N,N,N,False
 1997,Cubs,0.263,0.133,13.2,4.8,76.5,NL,68,94,N,N,N,N,False
 1989,Giants,0.25,0.14,31.0,4.8,76.2,NL,92,70,Y,,Y,N,True
 1990,Brewers,0.256,0.128,14.0,5.0,-45.9,AL,74,88,N,,N,N,False
 2015,Indians,0.256,0.144,20.9,4.4,5.6,AL,81,80,N,N,N,N,False
-1983,Phillies,0.25,0.124,13.9,4.8,-23.4,NL,90,72,Y,,Y,N,True
 2005,Pirates,0.259,0.141,13.4,4.4,22.8,NL,67,95,N,N,N,N,False
-1974,Phillies,0.261,0.113,17.8,5.1,44.8,NL,80,82,N,,N,N,False
-1978,White Sox,0.264,0.115,12.8,4.2,-29.5,AL,71,90,N,,N,N,False
-1981,Athletics,0.247,0.131,20.3,5.0,46.3,AL,64,45,Y,,N,N,True
 2011,Phillies,0.253,0.142,20.6,4.9,28.9,NL,102,60,Y,N,N,N,True
 1995,Expos/Nationals,0.259,0.136,11.0,4.9,28.9,NL,66,78,N,N,N,N,False
-1971,Twins,0.26,0.112,15.8,3.8,-0.6,AL,74,86,N,,N,N,False
-1971,Twins,0.23,0.096,7.3,3.7,-1.8,AL,74,86,N,,N,N,False
-1985,Royals,0.252,0.149,13.1,5.3,-25.6,AL,91,71,Y,,Y,Y,True
 2008,Royals,0.269,0.128,7.0,4.3,-29.7,AL,75,87,N,N,N,N,False
-1971,Dodgers,0.266,0.104,26.4,4.3,31.2,NL,89,73,N,,N,N,False
-1970,Padres,0.246,0.145,15.9,4.1,9.8,NL,63,99,N,,N,N,False
 2015,Orioles,0.25,0.171,16.8,3.6,-6.3,AL,81,81,N,N,N,N,False
 2009,Astros,0.26,0.14,13.1,4.5,36.0,NL,74,88,N,N,N,N,False
 2007,Expos/Nationals,0.256,0.134,13.2,4.2,39.1,NL,73,89,N,N,N,N,False
-1982,Giants,0.253,0.122,18.1,4.5,-34.3,NL,87,75,N,,N,N,False
-1983,Giants,0.247,0.129,18.3,4.5,3.4,NL,79,83,N,,N,N,False
 2004,Devil Rays/Rays,0.258,0.147,16.3,5.2,41.6,AL,70,91,N,N,N,N,False
 2006,Pirates,0.263,0.134,7.7,4.0,-13.0,NL,67,95,N,N,N,N,False
-1985,Rangers,0.253,0.127,9.4,4.6,-36.7,AL,62,99,N,,N,N,False
 2015,Expos/Nationals,0.251,0.151,19.4,3.5,19.1,NL,83,79,N,N,N,N,False
 2004,Pirates,0.26,0.141,7.8,4.3,2.6,NL,72,89,N,N,N,N,False
-1984,Twins,0.265,0.12,20.0,3.6,87.1,AL,81,81,N,,N,N,False
 1997,Reds,0.253,0.137,10.7,5.0,23.9,NL,76,86,N,N,N,N,False
 2002,Mets,0.256,0.139,17.6,4.0,49.4,NL,75,86,N,N,N,N,False
 2012,Giants,0.269,0.128,28.3,5.6,55.9,NL,94,68,Y,N,Y,Y,True
 2004,Royals,0.259,0.139,1.0,4.0,-47.4,AL,58,104,N,N,N,N,False
-1985,White Sox,0.253,0.139,9.8,4.9,-22.1,AL,85,77,N,,N,N,False
 2011,Indians,0.25,0.146,13.9,4.4,-58.2,AL,80,82,N,N,N,N,False
-1976,Tigers,0.257,0.108,10.2,4.5,-54.2,AL,74,87,N,,N,N,False
-1980,Twins,0.265,0.116,12.4,4.1,9.2,AL,77,84,N,,N,N,False
 2003,Devil Rays/Rays,0.265,0.139,17.6,5.3,30.0,AL,63,99,N,N,N,N,False
 2004,Mets,0.249,0.16,11.3,4.5,8.5,NL,71,91,N,N,N,N,False
 2001,Royals,0.266,0.143,11.3,4.9,35.8,AL,65,97,N,N,N,N,False
-1978,Cubs,0.264,0.097,12.2,4.6,17.0,NL,79,83,N,,N,N,False
-1970,Tigers,0.238,0.135,9.3,3.4,-18.8,AL,79,83,N,,N,N,False
 2012,Reds,0.251,0.159,23.2,4.4,65.9,NL,97,65,Y,N,N,N,True
-1976,Indians,0.263,0.096,14.0,4.0,-49.9,AL,81,78,N,,N,N,False
 1992,Padres,0.255,0.132,23.5,3.8,75.2,NL,82,80,N,,N,N,False
-1971,Braves,0.257,0.128,11.2,3.6,-23.0,NL,82,80,N,,N,N,False
 1990,White Sox,0.258,0.122,19.1,4.9,45.3,AL,94,68,N,,N,N,False
 1994,Giants,0.249,0.153,14.6,5.6,64.7,NL,55,60,,,,,False
 1996,Phillies,0.256,0.131,11.3,4.8,39.3,NL,67,95,N,N,N,N,False
-1971,Yankees,0.254,0.106,22.9,4.1,31.2,AL,82,80,N,,N,N,False
 2013,Diamondbacks,0.259,0.133,21.2,3.8,78.0,NL,81,81,N,N,N,N,False
 2011,Cubs,0.256,0.144,14.4,4.5,25.6,NL,71,91,N,N,N,N,False
 1986,Padres,0.261,0.126,16.9,3.8,1.3,NL,74,88,N,,N,N,False
@@ -934,131 +653,72 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 1993,Dodgers,0.261,0.122,10.4,4.5,-59.1,NL,81,81,N,,N,N,False
 1988,Indians,0.261,0.126,9.2,4.4,-65.4,AL,78,84,N,,N,N,False
 1997,Phillies,0.255,0.13,9.7,4.5,48.1,NL,68,94,N,N,N,N,False
-1977,Giants,0.253,0.129,13.5,4.3,8.3,NL,75,87,N,,N,N,False
 2011,Angels,0.253,0.149,22.2,4.8,28.1,AL,86,76,N,N,N,N,False
 2015,Cubs,0.244,0.154,26.4,4.4,63.5,NL,97,65,N,Y,N,N,True
-1976,Cardinals,0.26,0.099,19.2,5.0,25.6,NL,72,90,N,,N,N,False
 2005,Royals,0.263,0.134,2.7,4.0,-87.3,AL,56,106,N,N,N,N,False
-1985,Astros,0.261,0.127,22.8,4.6,8.5,NL,83,79,N,,N,N,False
 2003,Indians,0.254,0.148,13.8,4.2,10.1,AL,68,94,N,N,N,N,False
 1990,Padres,0.258,0.123,14.9,4.7,-11.4,NL,75,87,N,,N,N,False
-1982,Cardinals,0.264,0.1,27.5,5.5,90.6,NL,92,70,Y,,Y,Y,True
 2015,Devil Rays/Rays,0.252,0.154,19.9,4.2,6.4,AL,80,82,N,N,N,N,False
-1974,Giants,0.252,0.106,14.8,4.6,27.8,NL,72,90,N,,N,N,False
 2014,Indians,0.253,0.136,12.7,4.4,-82.4,AL,85,77,N,N,N,N,False
-1985,Mets,0.257,0.128,25.0,4.5,42.7,NL,98,64,N,,N,N,False
-1985,Reds,0.255,0.121,20.7,4.8,51.2,NL,89,72,N,,N,N,False
 2010,Expos/Nationals,0.25,0.14,15.5,4.5,44.1,NL,69,93,N,N,N,N,False
-1974,Indians,0.255,0.115,17.8,3.7,19.4,AL,77,85,N,,N,N,False
 2010,Athletics,0.256,0.122,20.2,5.1,6.9,AL,81,81,N,N,N,N,False
-1967,Cardinals,0.263,0.117,29.3,4.7,45.3,NL,101,60,,,Y,Y,False
-1967,Pirates,0.277,0.103,28.3,5.0,26.7,NL,81,81,,,N,N,False
 2009,Reds,0.247,0.147,17.4,4.4,94.3,NL,78,84,N,N,N,N,False
 1991,Cubs,0.253,0.138,17.5,4.4,38.5,NL,77,83,N,,N,N,False
 2012,Twins,0.26,0.13,15.7,4.9,-22.1,AL,66,96,N,N,N,N,False
 2015,Mariners,0.249,0.162,14.5,3.6,-43.7,AL,76,86,N,N,N,N,False
-1969,Astros,0.24,0.112,16.4,4.5,-36.4,NL,81,81,N,,N,N,False
 1989,Angels,0.256,0.129,22.2,4.6,30.0,AL,91,71,N,,N,N,False
 2015,Pirates,0.26,0.136,21.5,4.4,12.3,NL,98,64,N,Y,N,N,True
-1981,Mariners,0.251,0.117,8.2,4.3,-27.8,AL,44,65,N,,N,N,False
-1977,Astros,0.254,0.131,24.2,5.9,56.2,NL,81,81,N,,N,N,False
 2009,Mariners,0.258,0.144,19.7,4.0,75.2,AL,85,77,N,N,N,N,False
 2014,Brewers,0.25,0.147,18.9,4.5,46.9,NL,82,80,N,N,N,N,False
-1977,Brewers,0.258,0.131,10.7,4.2,-25.1,AL,67,95,N,,N,N,False
 1986,Royals,0.252,0.138,11.3,4.6,-15.0,AL,76,86,N,,N,N,False
-1982,Phillies,0.26,0.116,18.9,4.2,28.2,NL,89,73,N,,N,N,False
 2014,White Sox,0.253,0.146,12.0,4.3,-61.7,AL,73,89,N,N,N,N,False
-1974,Angels,0.254,0.102,16.7,4.3,-48.4,AL,68,94,N,,N,N,False
 2007,Royals,0.261,0.126,14.3,4.9,55.1,AL,69,93,N,N,N,N,False
 2005,Giants,0.261,0.135,13.0,4.1,53.1,NL,75,87,N,N,N,N,False
 2003,Reds,0.245,0.15,10.3,4.0,21.8,NL,69,93,N,N,N,N,False
-1974,Braves,0.249,0.115,19.3,3.9,96.7,NL,88,74,N,,N,N,False
 1998,Devil Rays/Rays,0.261,0.123,13.6,4.5,71.3,AL,63,99,N,N,N,N,False
 2002,Brewers,0.253,0.137,9.9,4.2,33.0,NL,56,106,N,N,N,N,False
-1978,Giants,0.248,0.126,18.0,4.2,3.3,NL,89,73,N,,N,N,False
 1987,Padres,0.26,0.118,20.4,5.4,77.2,NL,65,97,N,,N,N,False
-1964,Orioles,0.248,0.138,27.7,3.9,112.2,AL,97,65,,,N,N,False
-1964,Cubs,0.251,0.14,19.9,4.3,19.9,NL,76,86,,,N,N,False
 2011,White Sox,0.252,0.136,9.8,3.5,-26.0,AL,79,83,N,N,N,N,False
-1973,Dodgers,0.263,0.108,27.6,4.4,94.8,NL,95,66,N,,N,N,False
 2005,Twins,0.259,0.132,13.2,4.5,18.6,AL,83,79,N,N,N,N,False
-1964,Yankees,0.253,0.134,25.8,4.0,87.1,AL,99,63,,,Y,N,False
 1989,Mets,0.246,0.139,29.0,4.8,65.9,NL,87,75,N,,N,N,False
-1977,Padres,0.249,0.126,17.1,5.1,5.9,NL,69,93,N,,N,N,False
-1983,Dodgers,0.25,0.129,19.8,4.7,16.3,NL,91,71,Y,,N,N,True
-1964,Phillies,0.258,0.134,23.6,3.9,18.3,NL,92,70,,,N,N,False
 2013,Pirates,0.245,0.151,23.8,4.6,42.9,NL,94,68,N,Y,N,N,True
 2014,Athletics,0.244,0.137,25.0,4.6,0.2,AL,88,74,N,Y,N,N,True
 1986,Astros,0.255,0.126,25.5,4.8,68.8,NL,96,66,Y,,N,N,True
 2013,Expos/Nationals,0.251,0.146,19.3,4.4,32.9,NL,86,76,N,N,N,N,False
-1970,Yankees,0.251,0.113,22.5,4.5,67.4,AL,93,69,N,,N,N,False
 2010,Indians,0.248,0.13,12.2,4.1,-51.9,AL,69,93,N,N,N,N,False
 2008,Padres,0.25,0.14,14.6,3.4,8.0,NL,63,99,N,N,N,N,False
 2012,Phillies,0.255,0.144,21.3,4.9,52.0,NL,81,81,N,N,N,N,False
 1998,Diamondbacks,0.246,0.146,10.4,4.6,54.3,NL,65,97,N,N,N,N,False
 1994,Pirates,0.259,0.125,9.6,4.2,52.8,NL,53,61,,,,,False
-1981,Expos/Nationals,0.246,0.124,17.9,5.6,51.4,NL,60,48,Y,,N,N,True
 2012,Devil Rays/Rays,0.24,0.155,21.1,4.9,1.9,AL,90,72,N,N,N,N,False
-1984,Astros,0.264,0.107,21.9,5.2,15.8,NL,80,82,N,,N,N,False
-1979,Braves,0.256,0.121,2.8,4.4,-49.4,NL,66,94,N,,N,N,False
-1980,Astros,0.261,0.106,24.2,5.7,30.9,NL,93,70,Y,,N,N,True
 2011,Marlins,0.247,0.142,16.1,4.2,14.5,NL,72,90,N,N,N,N,False
 2013,Brewers,0.252,0.145,16.1,5.1,35.3,NL,74,88,N,N,N,N,False
-1975,Mets,0.256,0.105,18.7,3.3,33.5,NL,82,80,N,,N,N,False
-1976,Mets,0.246,0.106,21.5,3.6,44.2,NL,86,76,N,,N,N,False
-1974,Brewers,0.244,0.125,16.0,4.8,-5.6,AL,76,86,N,,N,N,False
-1972,Royals,0.255,0.098,22.1,4.1,12.1,AL,76,78,N,,N,N,False
 2012,Blue Jays,0.245,0.161,12.0,4.6,-32.0,AL,73,89,N,N,N,N,False
 2012,Royals,0.265,0.135,13.3,5.2,-24.7,AL,72,90,N,N,N,N,False
 1993,Padres,0.252,0.137,1.9,4.4,-93.8,NL,61,101,N,,N,N,False
-1982,Blue Jays,0.262,0.121,7.2,4.6,-7.5,AL,78,84,N,,N,N,False
 2012,Athletics,0.238,0.166,21.0,5.1,-5.3,AL,94,68,Y,N,N,N,True
 1990,Expos/Nationals,0.25,0.12,17.4,5.4,16.9,NL,85,77,N,,N,N,False
-1985,Brewers,0.263,0.115,9.2,4.4,-50.4,AL,71,90,N,,N,N,False
 1986,Braves,0.25,0.131,7.4,3.6,-10.9,NL,72,89,N,,N,N,False
 2015,Cardinals,0.253,0.142,22.3,4.2,46.1,NL,100,62,Y,N,N,N,True
-1964,Pirates,0.264,0.125,21.7,4.0,10.9,NL,80,82,,,N,N,False
 1986,Expos/Nationals,0.254,0.124,18.3,5.3,22.3,NL,78,83,N,,N,N,False
-1967,Cubs,0.251,0.127,26.4,4.4,73.8,NL,87,74,,,N,N,False
-1981,Indians,0.263,0.088,3.8,5.2,-72.6,AL,52,51,N,,N,N,False
-1970,Expos/Nationals,0.237,0.127,14.7,4.1,60.9,NL,73,89,N,,N,N,False
-1975,Astros,0.254,0.105,18.1,5.2,10.4,NL,64,97,N,,N,N,False
 1991,Angels,0.255,0.118,8.2,4.3,-44.0,AL,81,81,N,,N,N,False
 2002,Orioles,0.246,0.157,13.5,4.6,5.0,AL,67,95,N,N,N,N,False
 1994,Mets,0.25,0.144,7.2,3.5,13.5,NL,55,58,,,,,False
-1977,Braves,0.254,0.122,-6.6,3.8,-105.2,NL,61,101,N,,N,N,False
 1988,Rangers,0.252,0.117,16.3,4.8,8.6,AL,70,91,N,,N,N,False
 2008,Mariners,0.265,0.124,8.9,4.2,-36.2,AL,61,101,N,N,N,N,False
 1991,Dodgers,0.253,0.106,19.5,4.5,9.4,NL,93,69,N,,N,N,False
-1969,Phillies,0.241,0.131,12.2,4.2,-36.4,NL,63,99,N,,N,N,False
-1982,Mariners,0.254,0.127,7.2,4.4,-18.1,AL,76,86,N,,N,N,False
 2008,Expos/Nationals,0.251,0.122,8.5,4.1,29.8,NL,59,102,N,N,N,N,False
 2010,Angels,0.248,0.142,13.5,4.3,-23.7,AL,80,82,N,N,N,N,False
 2010,Orioles,0.259,0.127,7.5,3.8,-23.9,AL,66,96,N,N,N,N,False
 2009,Pirates,0.252,0.135,14.8,4.6,66.3,NL,62,99,N,N,N,N,False
 2012,Indians,0.251,0.131,10.3,4.2,-70.0,AL,68,94,N,N,N,N,False
-1980,Blue Jays,0.251,0.132,6.8,4.1,-8.1,AL,67,95,N,,N,N,False
-1976,Astros,0.256,0.09,22.7,5.3,24.3,NL,80,82,N,,N,N,False
-1972,Dodgers,0.256,0.104,25.9,4.3,40.9,NL,85,70,N,,N,N,False
-1965,Phillies,0.25,0.134,17.6,4.1,-5.3,NL,85,76,,,N,N,False
 2012,Braves,0.247,0.142,25.7,4.6,104.2,NL,94,68,N,Y,N,N,True
-1965,Giants,0.252,0.133,21.4,4.0,31.1,NL,95,67,,,N,N,False
 1986,Pirates,0.25,0.123,20.6,4.6,66.5,NL,64,98,N,,N,N,False
 1990,Phillies,0.255,0.108,21.3,4.5,64.2,NL,77,85,N,,N,N,False
 2007,Giants,0.254,0.133,10.5,5.0,60.6,NL,71,91,N,N,N,N,False
-1976,Orioles,0.243,0.115,22.8,4.7,-6.5,AL,88,74,N,,N,N,False
-1969,White Sox,0.247,0.11,12.6,3.8,16.6,AL,68,94,N,,N,N,False
-1973,Rangers,0.255,0.106,5.5,4.1,-103.0,AL,57,105,N,,N,N,False
-1965,Indians,0.25,0.13,20.4,4.2,24.1,AL,87,75,,,N,N,False
-1973,Astros,0.251,0.124,18.1,4.4,37.7,NL,82,80,N,,N,N,False
 2009,Padres,0.242,0.138,15.9,4.2,27.5,NL,75,87,N,N,N,N,False
-1984,Rangers,0.261,0.116,8.2,4.1,-43.6,AL,69,92,N,,N,N,False
-1966,Phillies,0.258,0.12,22.2,4.3,29.3,NL,87,75,,,N,N,False
 2008,Giants,0.262,0.12,10.5,4.7,55.5,NL,72,90,N,N,N,N,False
-1983,Astros,0.257,0.118,25.4,5.4,73.0,NL,85,77,N,,N,N,False
 2005,Expos/Nationals,0.252,0.134,16.6,3.5,78.8,NL,81,81,N,N,N,N,False
-1966,Reds,0.26,0.135,10.7,4.1,-19.4,NL,76,84,,,N,N,False
-1963,White Sox,0.25,0.114,24.8,4.3,77.5,AL,94,68,,,N,N,False
 2010,Dodgers,0.252,0.127,13.6,4.3,1.1,NL,80,82,N,N,N,N,False
 1989,Padres,0.251,0.118,14.4,4.5,-40.2,NL,89,73,N,,N,N,False
 2015,Mets,0.244,0.156,23.7,3.6,39.7,NL,90,72,Y,N,Y,N,True
@@ -1066,353 +726,138 @@ Year,Team,AVG,ISO,WAR,Spd,Def,lgID,W,L,DivWin,WCWin,LgWin,WSWin,playoffs
 2001,Devil Rays/Rays,0.258,0.13,6.4,4.4,-41.0,AL,62,100,N,N,N,N,False
 1986,Giants,0.253,0.122,26.3,4.7,97.7,NL,83,79,N,,N,N,False
 2004,Brewers,0.248,0.139,9.8,4.8,36.7,NL,67,94,N,N,N,N,False
-1977,Mariners,0.256,0.125,9.6,4.3,-14.0,AL,64,98,N,,N,N,False
 2002,Padres,0.253,0.129,13.1,3.9,12.0,NL,66,96,N,N,N,N,False
 1992,Expos/Nationals,0.253,0.118,21.8,5.5,36.9,NL,87,75,N,,N,N,False
-1965,Pirates,0.265,0.117,26.5,4.2,87.4,NL,90,72,,,N,N,False
-1984,Brewers,0.262,0.107,7.9,3.5,-53.4,AL,67,94,N,,N,N,False
-1972,Yankees,0.25,0.108,25.1,3.6,27.3,AL,79,76,N,,N,N,False
-1964,Athletics,0.239,0.14,8.7,3.3,-14.2,AL,57,105,,,N,N,False
-1985,Phillies,0.245,0.138,14.0,5.1,-6.1,NL,75,87,N,,N,N,False
 2005,Mariners,0.256,0.136,13.7,4.6,-3.2,AL,69,93,N,N,N,N,False
 2001,Mets,0.249,0.137,12.1,3.5,37.9,NL,82,80,N,N,N,N,False
 2001,Expos/Nationals,0.253,0.143,1.0,4.5,-14.2,NL,68,94,N,N,N,N,False
-1981,Giants,0.25,0.107,12.7,4.6,2.6,NL,56,55,N,,N,N,False
 1989,Cardinals,0.258,0.105,29.7,5.1,115.5,NL,86,76,N,,N,N,False
-1981,Pirates,0.258,0.112,8.3,5.3,-9.6,NL,46,56,N,,N,N,False
 2002,Devil Rays/Rays,0.253,0.137,11.5,4.7,-0.9,AL,55,106,N,N,N,N,False
 2013,Giants,0.26,0.121,26.9,4.3,69.0,NL,76,86,N,N,N,N,False
 1988,Cubs,0.261,0.122,16.1,4.9,10.4,NL,77,85,N,,N,N,False
 1992,Royals,0.256,0.108,7.6,4.8,-35.0,AL,72,90,N,,N,N,False
-1976,Cubs,0.251,0.105,5.9,3.4,-12.0,NL,75,87,N,,N,N,False
 1988,Brewers,0.257,0.118,15.9,5.1,4.9,AL,87,75,N,,N,N,False
 1991,Giants,0.246,0.134,22.1,4.8,47.6,NL,75,87,N,,N,N,False
 1997,Blue Jays,0.244,0.146,6.3,5.1,-4.2,AL,76,86,N,N,N,N,False
-1984,Mets,0.257,0.111,19.4,4.6,10.8,NL,90,72,N,,N,N,False
-1973,Cardinals,0.259,0.098,17.9,4.3,55.4,NL,81,81,N,,N,N,False
-1982,Cubs,0.26,0.115,12.5,4.9,1.7,NL,73,89,N,,N,N,False
-1976,Rangers,0.25,0.091,15.6,3.8,-20.5,AL,76,86,N,,N,N,False
 2014,Giants,0.255,0.133,23.0,4.3,34.4,NL,88,74,N,Y,Y,Y,True
-1967,Giants,0.245,0.127,26.1,3.3,54.1,NL,91,71,,,N,N,False
 2002,Pirates,0.244,0.137,12.6,3.9,43.3,NL,72,89,N,N,N,N,False
-1966,Twins,0.249,0.133,24.2,4.0,91.4,AL,89,73,,,N,N,False
-1966,Twins,0.234,0.121,14.9,3.9,66.4,AL,89,73,,,N,N,False
-1964,Indians,0.248,0.133,10.6,3.8,-17.7,AL,79,83,,,N,N,False
-1980,Braves,0.25,0.13,12.9,3.7,47.9,NL,81,80,N,,N,N,False
 2015,Athletics,0.251,0.144,14.3,4.9,-46.6,AL,68,94,N,N,N,N,False
 1988,Pirates,0.247,0.123,25.6,4.8,67.6,NL,85,75,N,,N,N,False
 1993,Mets,0.248,0.142,11.4,4.4,17.3,NL,59,103,N,,N,N,False
 1988,Giants,0.248,0.12,25.4,4.7,53.4,NL,83,79,N,,N,N,False
 1991,Mets,0.244,0.121,13.3,4.5,-30.0,NL,77,84,N,,N,N,False
 1996,Dodgers,0.252,0.132,12.6,4.8,11.5,NL,90,72,N,Y,N,N,True
-1984,Padres,0.259,0.112,24.9,5.1,70.1,NL,92,70,Y,,Y,N,True
-1978,Expos/Nationals,0.254,0.125,26.0,4.2,109.0,NL,76,86,N,,N,N,False
-1978,Braves,0.244,0.119,4.5,4.1,-20.3,NL,69,93,N,,N,N,False
 2014,Cardinals,0.253,0.116,21.5,3.6,63.3,NL,90,72,Y,N,N,N,True
 2014,Astros,0.242,0.141,11.5,4.4,-82.4,AL,70,92,N,N,N,N,False
-1963,Orioles,0.249,0.13,21.7,4.5,56.5,AL,86,76,,,N,N,False
-1973,Cubs,0.247,0.111,4.2,3.3,-10.9,NL,77,84,N,,N,N,False
-1972,Athletics,0.24,0.126,30.1,4.2,76.7,AL,93,62,Y,,Y,Y,True
-1966,Cubs,0.254,0.127,13.3,4.2,-6.8,NL,59,103,,,N,N,False
-1965,Tigers,0.238,0.136,18.7,3.8,40.3,AL,89,73,,,N,N,False
 2014,Marlins,0.253,0.125,18.6,4.2,28.7,NL,77,85,N,N,N,N,False
-1978,Mariners,0.248,0.111,6.9,4.9,-58.0,AL,56,104,N,,N,N,False
-1973,Phillies,0.249,0.122,10.8,3.5,22.8,NL,71,91,N,,N,N,False
 2015,Reds,0.248,0.146,16.8,4.7,20.8,NL,64,98,N,N,N,N,False
-1970,Brewers,0.242,0.116,9.4,3.6,0.7,AL,65,97,N,,N,N,False
 1998,Dodgers,0.252,0.135,12.2,4.8,24.1,NL,83,79,N,N,N,N,False
 2013,Mariners,0.237,0.152,7.5,3.4,-93.3,AL,71,91,N,N,N,N,False
-1979,Giants,0.246,0.118,9.8,4.9,-35.2,NL,71,91,N,,N,N,False
 2013,Twins,0.242,0.138,9.0,3.1,-54.9,AL,66,96,N,N,N,N,False
 2010,Mets,0.249,0.134,17.0,5.0,43.5,NL,79,83,N,N,N,N,False
-1976,White Sox,0.255,0.094,8.7,4.7,-68.9,AL,64,97,N,,N,N,False
 2011,Dodgers,0.257,0.118,21.6,4.7,39.6,NL,82,79,N,N,N,N,False
-1974,Tigers,0.247,0.119,6.5,3.9,-45.3,AL,72,90,N,,N,N,False
 1991,Cardinals,0.255,0.102,20.5,5.5,58.4,NL,84,78,N,,N,N,False
 1989,Expos/Nationals,0.247,0.114,17.6,4.7,4.1,NL,81,81,N,,N,N,False
 1989,Phillies,0.243,0.121,10.2,4.6,-48.9,NL,67,95,N,,N,N,False
 2012,Padres,0.247,0.133,21.4,5.5,24.5,NL,76,86,N,N,N,N,False
 1989,Tigers,0.242,0.109,10.1,4.0,-48.0,AL,59,103,N,,N,N,False
-1985,Padres,0.255,0.113,20.4,3.8,51.5,NL,83,79,N,,N,N,False
-1967,Orioles,0.241,0.131,27.4,4.0,75.9,AL,76,85,,,N,N,False
 1998,Marlins,0.248,0.124,10.0,4.8,24.9,NL,54,108,N,N,N,N,False
 2012,Mets,0.249,0.137,14.5,3.9,-3.3,NL,74,88,N,N,N,N,False
-1967,Braves,0.24,0.133,20.0,3.6,10.9,NL,77,85,,,N,N,False
 2001,Orioles,0.248,0.131,9.3,4.6,-26.5,AL,63,98,N,N,N,N,False
 2004,Expos/Nationals,0.249,0.143,5.7,4.5,36.0,NL,67,95,N,N,N,N,False
 1995,Cardinals,0.247,0.127,13.0,4.2,71.5,NL,62,81,N,N,N,N,False
-1969,Cardinals,0.253,0.106,17.7,4.3,34.5,NL,87,75,N,,N,N,False
-1964,Giants,0.246,0.137,21.5,4.1,29.1,NL,90,72,,,N,N,False
 2008,Athletics,0.242,0.127,14.3,4.2,26.2,AL,75,86,N,N,N,N,False
-1981,Astros,0.257,0.099,17.4,4.8,39.0,NL,61,49,Y,,N,N,True
-1967,Twins,0.24,0.129,16.6,4.4,5.3,AL,91,71,,,N,N,False
-1967,Twins,0.223,0.103,10.6,3.6,40.4,AL,91,71,,,N,N,False
-1972,Cardinals,0.26,0.095,15.9,4.6,3.6,NL,75,81,N,,N,N,False
 2001,Pirates,0.247,0.146,6.7,4.1,38.4,NL,62,100,N,N,N,N,False
 1992,Red Sox,0.246,0.101,3.0,3.0,-40.1,AL,73,89,N,,N,N,False
 1989,Reds,0.247,0.124,11.4,4.5,-15.8,NL,75,87,N,,N,N,False
 2014,Royals,0.263,0.113,21.5,5.2,50.5,AL,89,73,N,Y,Y,N,True
 2011,Braves,0.243,0.144,14.8,3.7,18.3,NL,89,73,N,N,N,N,False
-1980,White Sox,0.259,0.111,6.1,4.0,-31.8,AL,70,90,N,,N,N,False
-1965,Cardinals,0.254,0.117,17.5,4.8,70.9,NL,80,81,,,N,N,False
-1971,Mets,0.249,0.101,20.1,4.0,35.8,NL,83,79,N,,N,N,False
 1990,Cardinals,0.256,0.102,20.4,5.4,72.6,NL,70,92,N,,N,N,False
-1970,White Sox,0.253,0.109,2.8,3.5,-34.7,AL,56,106,N,,N,N,False
-1982,Athletics,0.236,0.131,12.7,5.4,-17.6,AL,68,94,N,,N,N,False
-1966,Giants,0.248,0.144,21.5,3.3,54.7,NL,93,68,,,N,N,False
-1969,Dodgers,0.254,0.105,24.2,4.5,56.5,NL,85,77,N,,N,N,False
-1976,Braves,0.245,0.089,-0.5,3.8,-67.9,NL,70,92,N,,N,N,False
-1971,Expos/Nationals,0.246,0.097,16.3,3.6,36.5,NL,71,90,N,,N,N,False
-1977,Blue Jays,0.252,0.113,1.9,3.9,-54.2,AL,54,107,N,,N,N,False
 1989,Indians,0.245,0.12,9.7,3.8,-22.5,AL,73,89,N,,N,N,False
 2014,Yankees,0.245,0.135,16.6,4.7,-6.7,AL,84,78,N,N,N,N,False
-1968,Red Sox,0.236,0.116,20.3,3.5,54.8,AL,86,76,,,N,N,False
 2014,Rangers,0.256,0.119,11.3,4.4,-24.5,AL,67,95,N,N,N,N,False
-1976,Dodgers,0.251,0.099,25.3,4.7,91.2,NL,92,70,N,,N,N,False
 2015,Twins,0.247,0.152,10.8,4.8,-18.7,AL,83,79,N,N,N,N,False
 2009,Giants,0.257,0.132,16.5,4.7,88.9,NL,88,74,N,N,N,N,False
-1975,Expos/Nationals,0.244,0.104,10.9,4.2,39.4,NL,75,87,N,,N,N,False
-1975,Tigers,0.25,0.116,-0.5,3.9,-76.1,AL,57,102,N,,N,N,False
 2004,Diamondbacks,0.253,0.14,-0.4,3.9,2.3,NL,51,111,N,N,N,N,False
 2015,Angels,0.246,0.15,17.8,3.6,0.5,AL,85,77,N,N,N,N,False
-1969,Expos/Nationals,0.24,0.119,9.1,3.4,-20.4,NL,52,110,N,,N,N,False
 2013,Royals,0.26,0.119,22.8,5.1,68.2,AL,86,76,N,N,N,N,False
 2014,Devil Rays/Rays,0.247,0.12,18.1,3.6,-15.1,AL,77,85,N,N,N,N,False
-1984,Braves,0.247,0.115,13.1,4.5,38.5,NL,80,82,N,,N,N,False
-1967,Astros,0.249,0.115,17.7,4.5,-47.5,NL,69,93,,,N,N,False
-1969,Brewers,0.235,0.112,5.4,4.9,-50.4,AL,64,98,N,,N,N,False
 2014,Red Sox,0.244,0.124,16.5,3.7,32.9,AL,71,91,N,N,N,N,False
 1992,Astros,0.246,0.113,20.9,4.9,38.6,NL,81,81,N,,N,N,False
 2011,Expos/Nationals,0.242,0.14,14.9,4.3,25.4,NL,80,81,N,N,N,N,False
-1973,Angels,0.253,0.094,9.8,3.7,-64.0,AL,79,83,N,,N,N,False
 2013,Cubs,0.238,0.154,19.2,3.6,75.3,NL,66,96,N,N,N,N,False
 2010,Padres,0.246,0.125,23.0,4.7,80.8,NL,90,72,N,N,N,N,False
-1983,Rangers,0.255,0.112,13.5,4.5,26.0,AL,77,85,N,,N,N,False
-1963,Braves,0.244,0.127,28.8,4.3,75.3,NL,84,78,,,N,N,False
 1987,Astros,0.253,0.12,11.9,5.0,13.1,NL,76,86,N,,N,N,False
-1966,Red Sox,0.24,0.137,15.9,3.7,54.1,AL,72,90,,,N,N,False
-1976,Giants,0.246,0.099,6.9,4.3,-33.8,NL,74,88,N,,N,N,False
 1986,Dodgers,0.251,0.119,11.4,4.3,-29.0,NL,73,89,N,,N,N,False
 1988,Expos/Nationals,0.251,0.121,23.5,5.4,77.6,NL,81,81,N,,N,N,False
-1978,Blue Jays,0.25,0.108,3.7,3.3,-36.2,AL,59,102,N,,N,N,False
-1963,Phillies,0.252,0.129,27.4,4.3,56.8,NL,87,75,,,N,N,False
 2015,Brewers,0.251,0.142,11.1,4.7,9.9,NL,68,94,N,N,N,N,False
 2012,Pirates,0.243,0.152,15.5,4.3,27.5,NL,79,83,N,N,N,N,False
-1963,Indians,0.239,0.142,12.9,3.8,16.8,AL,79,83,,,N,N,False
-1979,Blue Jays,0.251,0.112,2.9,3.9,-6.6,AL,53,109,N,,N,N,False
-1963,Reds,0.246,0.125,20.1,4.5,22.1,NL,86,76,,,N,N,False
 1998,Pirates,0.254,0.121,5.6,5.4,24.9,NL,69,93,N,N,N,N,False
-1975,Braves,0.244,0.102,-2.3,3.6,-52.3,NL,67,94,N,,N,N,False
-1976,Brewers,0.246,0.095,10.0,3.7,-25.2,AL,66,95,N,,N,N,False
-1984,Expos/Nationals,0.251,0.111,23.6,4.7,78.0,NL,78,83,N,,N,N,False
 1992,Cubs,0.254,0.11,14.4,4.1,42.0,NL,78,84,N,,N,N,False
-1966,Astros,0.255,0.111,13.2,4.1,-45.4,NL,72,90,,,N,N,False
-1965,White Sox,0.246,0.118,27.7,3.9,92.5,AL,95,67,,,N,N,False
-1985,Expos/Nationals,0.247,0.128,19.0,5.4,42.2,NL,84,77,N,,N,N,False
-1985,Braves,0.246,0.117,8.9,3.8,9.8,NL,66,96,N,,N,N,False
-1980,Cubs,0.251,0.114,3.0,4.0,-21.4,NL,64,98,N,,N,N,False
 1988,Reds,0.246,0.122,24.8,5.1,93.4,NL,87,74,N,,N,N,False
-1978,Padres,0.252,0.096,16.7,4.9,-3.4,NL,84,78,N,,N,N,False
 2013,Phillies,0.248,0.135,6.8,4.2,-32.8,NL,73,89,N,N,N,N,False
-1975,Angels,0.246,0.082,7.1,5.3,-73.9,AL,72,89,N,,N,N,False
-1981,Mets,0.248,0.108,8.6,5.1,-10.5,NL,41,62,N,,N,N,False
 2014,Cubs,0.239,0.146,16.9,4.1,31.7,NL,73,89,N,N,N,N,False
-1971,Royals,0.25,0.103,15.4,5.0,32.7,AL,85,76,N,,N,N,False
-1978,Mets,0.245,0.107,14.7,4.3,12.6,NL,66,96,N,,N,N,False
-1971,Reds,0.241,0.124,23.8,3.8,87.0,NL,79,83,N,,N,N,False
 1991,Padres,0.244,0.118,20.3,4.5,99.7,NL,84,78,N,,N,N,False
 2013,Padres,0.245,0.133,18.4,4.6,29.5,NL,76,86,N,N,N,N,False
-1984,Cardinals,0.252,0.099,19.9,5.6,51.5,NL,84,78,N,,N,N,False
-1968,Cubs,0.242,0.124,20.8,3.8,19.0,NL,84,78,,,N,N,False
 1986,White Sox,0.247,0.116,10.4,4.5,46.4,AL,72,90,N,,N,N,False
 2012,Dodgers,0.252,0.122,15.8,4.2,43.2,NL,86,76,N,N,N,N,False
-1984,Pirates,0.255,0.108,17.1,4.1,66.3,NL,75,87,N,,N,N,False
 2003,Mets,0.247,0.128,5.1,3.9,10.6,NL,66,95,N,N,N,N,False
-1972,Tigers,0.237,0.12,17.0,2.9,37.2,AL,86,70,Y,,N,N,True
-1970,Angels,0.251,0.112,21.4,4.4,96.1,AL,86,76,N,,N,N,False
-1980,Padres,0.255,0.087,20.9,5.4,39.6,NL,73,89,N,,N,N,False
-1964,White Sox,0.247,0.106,26.5,4.3,136.2,AL,98,64,,,N,N,False
 2015,Marlins,0.26,0.124,16.9,4.8,48.0,NL,71,91,N,N,N,N,False
 2011,Athletics,0.244,0.125,8.4,4.7,-35.8,AL,74,88,N,N,N,N,False
-1969,Mets,0.242,0.109,20.7,4.2,88.4,NL,100,62,Y,,Y,Y,True
 1988,White Sox,0.244,0.127,9.6,4.4,-13.7,AL,71,90,N,,N,N,False
 2011,Astros,0.258,0.116,13.1,4.7,21.7,NL,56,106,N,N,N,N,False
-1984,Reds,0.244,0.112,8.4,4.8,-18.6,NL,70,92,N,,N,N,False
-1978,Astros,0.258,0.097,17.1,5.3,-6.9,NL,74,88,N,,N,N,False
-1982,Rangers,0.249,0.11,3.7,3.5,-48.0,AL,64,98,N,,N,N,False
 2013,Yankees,0.242,0.133,11.9,4.8,-0.2,AL,85,77,N,N,N,N,False
-1983,Reds,0.239,0.118,13.6,4.9,62.0,NL,74,88,N,,N,N,False
 1991,Indians,0.254,0.096,4.7,3.7,-32.8,AL,57,105,N,,N,N,False
-1964,Reds,0.249,0.123,19.3,4.7,58.8,NL,92,70,,,N,N,False
-1981,Padres,0.257,0.09,9.5,4.7,-2.8,NL,41,69,N,,N,N,False
 1988,Orioles,0.238,0.121,7.1,3.4,-40.4,AL,54,107,N,,N,N,False
 1989,Pirates,0.241,0.118,21.8,5.3,63.4,NL,74,88,N,,N,N,False
 2012,Marlins,0.244,0.138,11.0,5.2,8.9,NL,69,93,N,N,N,N,False
 1990,Yankees,0.241,0.125,10.1,4.3,11.2,AL,67,95,N,,N,N,False
-1968,Orioles,0.225,0.127,30.3,4.1,105.9,AL,91,71,,,N,N,False
-1972,White Sox,0.238,0.108,10.1,4.3,-35.1,AL,87,67,N,,N,N,False
 2010,Pirates,0.242,0.131,3.7,4.2,-30.8,NL,57,105,N,N,N,N,False
-1965,Athletics,0.24,0.118,10.6,5.1,-6.6,AL,59,103,,,N,N,False
-1980,Mets,0.257,0.088,9.8,4.8,-1.6,NL,67,95,N,,N,N,False
-1980,Mariners,0.248,0.108,1.7,4.4,-26.5,AL,59,103,N,,N,N,False
-1967,Phillies,0.242,0.116,16.6,4.4,-3.1,NL,82,80,,,N,N,False
-1966,Dodgers,0.256,0.106,22.1,4.1,23.3,NL,95,67,,,Y,N,False
 2015,White Sox,0.25,0.13,3.4,4.0,-58.0,AL,76,86,N,N,N,N,False
-1972,Twins,0.244,0.1,22.5,3.5,91.6,AL,77,77,N,,N,N,False
 1991,Expos/Nationals,0.246,0.112,16.5,5.3,43.9,NL,71,90,N,,N,N,False
 2014,Diamondbacks,0.248,0.127,10.3,4.9,26.4,NL,64,98,N,N,N,N,False
-1976,Padres,0.247,0.09,18.3,4.4,47.5,NL,73,89,N,,N,N,False
-1981,Braves,0.243,0.106,7.8,4.7,19.1,NL,50,56,N,,N,N,False
 2013,White Sox,0.249,0.129,4.1,4.1,-43.1,AL,63,99,N,N,N,N,False
 2014,Mariners,0.244,0.132,15.9,4.5,-9.5,AL,87,75,N,N,N,N,False
-1965,Orioles,0.238,0.124,24.7,4.3,108.6,AL,94,68,,,N,N,False
 2014,Mets,0.239,0.126,17.8,4.3,36.9,NL,79,83,N,N,N,N,False
 2011,Pirates,0.244,0.123,9.8,4.7,7.8,NL,72,90,N,N,N,N,False
-1973,Mets,0.246,0.092,12.4,3.0,31.3,NL,82,79,Y,,Y,N,True
-1979,Mets,0.25,0.1,9.2,4.6,2.7,NL,63,99,N,,N,N,False
-1963,Pirates,0.25,0.109,20.6,4.0,30.4,NL,74,88,,,N,N,False
-1963,Athletics,0.247,0.107,6.5,3.9,20.6,AL,73,89,,,N,N,False
-1966,Yankees,0.235,0.139,17.6,3.9,36.3,AL,70,89,,,N,N,False
 1992,Dodgers,0.248,0.09,6.1,4.4,-65.0,NL,63,99,N,,N,N,False
 2015,Phillies,0.249,0.133,9.9,4.7,-1.7,NL,63,99,N,N,N,N,False
 1993,Marlins,0.248,0.099,6.7,4.3,13.1,NL,64,98,N,,N,N,False
-1978,Athletics,0.245,0.106,3.1,4.2,-64.3,AL,69,93,N,,N,N,False
-1967,Reds,0.248,0.124,11.9,4.7,13.0,NL,87,75,,,N,N,False
-1978,Cardinals,0.249,0.109,10.9,4.7,17.3,NL,69,93,N,,N,N,False
 2015,Padres,0.243,0.142,12.6,4.7,-0.7,NL,74,88,N,N,N,N,False
-1969,Yankees,0.235,0.109,16.1,4.5,79.7,AL,80,81,N,,N,N,False
-1965,Cubs,0.237,0.121,10.3,3.8,9.9,NL,72,90,,,N,N,False
 1991,Phillies,0.242,0.117,12.3,4.5,19.0,NL,78,84,N,,N,N,False
-1969,Indians,0.237,0.108,2.1,3.8,-17.9,AL,62,99,N,,N,N,False
-1970,Royals,0.244,0.104,8.6,4.5,32.5,AL,65,97,N,,N,N,False
 2013,Astros,0.24,0.136,1.0,4.1,-76.2,AL,51,111,N,N,N,N,False
 1988,Phillies,0.239,0.116,9.2,4.5,-22.3,NL,65,96,N,,N,N,False
-1982,Padres,0.257,0.101,23.8,5.5,94.2,NL,81,81,N,,N,N,False
 1990,Astros,0.242,0.103,10.5,4.7,-7.0,NL,75,87,N,,N,N,False
 1988,Padres,0.247,0.104,21.3,4.6,69.4,NL,83,78,N,,N,N,False
 1992,Mets,0.235,0.107,9.6,4.4,-11.0,NL,72,90,N,,N,N,False
 1992,Giants,0.244,0.111,15.5,4.5,39.6,NL,72,90,N,,N,N,False
 2002,Tigers,0.248,0.132,-1.0,4.1,-68.1,AL,55,106,N,N,N,N,False
-1969,Royals,0.24,0.098,7.2,4.4,18.0,AL,69,93,N,,N,N,False
-1974,Mets,0.235,0.094,6.1,3.2,-35.8,NL,71,91,N,,N,N,False
-1983,Mariners,0.24,0.12,-0.2,4.5,-54.4,AL,60,102,N,,N,N,False
 1987,Dodgers,0.252,0.119,7.5,4.3,-3.1,NL,73,89,N,,N,N,False
-1970,Phillies,0.238,0.118,-1.4,4.5,-40.5,NL,73,88,N,,N,N,False
 2012,Cubs,0.24,0.138,11.7,4.6,64.6,NL,61,101,N,N,N,N,False
-1975,Padres,0.244,0.091,8.1,3.7,-10.0,NL,71,91,N,,N,N,False
-1982,Reds,0.251,0.099,6.0,4.3,-21.9,NL,61,101,N,,N,N,False
 2013,Mets,0.237,0.129,19.1,4.6,40.3,NL,74,88,N,N,N,N,False
 1991,Astros,0.244,0.102,15.5,4.7,40.0,NL,65,97,N,,N,N,False
-1963,Dodgers,0.251,0.106,22.4,4.5,7.2,NL,99,63,,,Y,Y,False
-1968,Giants,0.239,0.101,23.6,3.6,8.3,NL,88,74,,,N,N,False
-1977,Athletics,0.24,0.112,5.6,5.0,-40.3,AL,63,98,N,,N,N,False
-1963,Angels,0.25,0.103,15.7,3.8,54.1,AL,70,91,,,N,N,False
 2014,Braves,0.241,0.119,15.6,4.0,61.7,NL,79,83,N,N,N,N,False
-1977,Mets,0.244,0.102,8.5,3.9,30.3,NL,64,98,N,,N,N,False
-1972,Phillies,0.236,0.108,9.5,3.3,18.9,NL,59,97,N,,N,N,False
 2015,Braves,0.251,0.108,12.1,3.7,40.8,NL,67,95,N,N,N,N,False
 2012,Astros,0.236,0.135,4.9,4.3,4.2,NL,55,107,N,N,N,N,False
-1968,Twins,0.237,0.112,15.8,4.5,21.2,AL,79,83,,,N,N,False
-1968,Twins,0.224,0.112,6.4,3.4,-59.5,AL,79,83,,,N,N,False
 2011,Twins,0.247,0.113,3.3,4.2,-29.4,AL,63,99,N,N,N,N,False
 2003,Tigers,0.24,0.135,-1.2,4.3,-59.2,AL,43,119,N,N,N,N,False
-1968,Athletics,0.24,0.103,23.8,4.9,43.3,AL,82,80,,,N,N,False
-1983,Padres,0.25,0.1,16.7,5.1,63.8,NL,81,81,N,,N,N,False
 2011,Giants,0.242,0.126,15.6,3.7,46.0,NL,86,76,N,N,N,N,False
 2010,Astros,0.247,0.115,5.6,4.3,23.7,NL,76,86,N,N,N,N,False
 2014,Phillies,0.242,0.121,13.1,4.7,21.0,NL,73,89,N,N,N,N,False
-1965,Yankees,0.235,0.129,12.1,3.5,6.6,AL,77,85,,,N,N,False
-1984,Dodgers,0.244,0.105,12.0,3.9,10.4,NL,79,83,N,,N,N,False
-1979,Astros,0.256,0.088,18.0,5.4,73.1,NL,89,73,N,,N,N,False
 1989,Astros,0.239,0.106,19.7,4.8,56.3,NL,86,76,N,,N,N,False
-1979,Padres,0.242,0.106,15.0,4.7,51.7,NL,68,93,N,,N,N,False
-1967,Indians,0.235,0.124,13.6,3.6,10.5,AL,75,87,,,N,N,False
-1971,Phillies,0.233,0.117,11.4,3.7,40.5,NL,67,95,N,,N,N,False
 1988,Astros,0.244,0.107,15.4,5.2,2.0,NL,82,80,N,,N,N,False
-1967,Angels,0.239,0.111,21.4,3.6,69.3,AL,84,77,,,N,N,False
 1988,Dodgers,0.248,0.104,20.0,4.6,50.2,NL,94,67,Y,,Y,Y,True
 2014,Reds,0.238,0.127,16.0,4.4,82.4,NL,76,86,N,N,N,N,False
-1985,Pirates,0.247,0.101,8.2,4.2,5.0,NL,57,104,N,,N,N,False
-1982,Mets,0.247,0.104,7.0,4.7,-33.1,NL,65,97,N,,N,N,False
 2003,Dodgers,0.243,0.125,10.2,3.9,84.4,NL,85,77,N,N,N,N,False
-1972,Orioles,0.229,0.11,24.8,4.0,109.9,AL,80,74,N,,N,N,False
-1971,Indians,0.238,0.104,5.2,3.3,12.1,AL,60,102,N,,N,N,False
-1966,Cardinals,0.252,0.117,20.1,5.5,86.5,NL,83,79,,,N,N,False
-1980,Giants,0.244,0.098,8.8,4.4,-5.0,NL,75,86,N,,N,N,False
-1981,Cubs,0.236,0.104,-2.3,4.5,-50.8,NL,38,65,N,,N,N,False
-1972,Mets,0.225,0.107,7.3,3.2,-24.9,NL,83,73,N,,N,N,False
-1973,Padres,0.244,0.107,5.6,4.2,-20.1,NL,60,102,N,,N,N,False
-1968,Pirates,0.252,0.091,30.4,4.8,84.2,NL,80,82,,,N,N,False
-1963,Cubs,0.238,0.125,15.5,3.9,50.9,NL,82,80,,,N,N,False
 1989,Braves,0.234,0.115,8.8,3.7,46.6,NL,63,97,N,,N,N,False
-1971,Astros,0.24,0.1,13.3,4.8,30.8,NL,79,83,N,,N,N,False
-1974,Padres,0.229,0.101,0.8,3.9,-70.6,NL,60,102,N,,N,N,False
-1968,Braves,0.252,0.087,22.2,3.8,33.3,NL,81,81,,,N,N,False
-1968,Cardinals,0.249,0.098,23.5,4.8,30.4,NL,97,65,,,Y,N,False
-1979,Athletics,0.239,0.108,-9.7,4.1,-137.5,AL,54,108,N,,N,N,False
-1966,Angels,0.232,0.122,15.4,4.5,35.6,AL,80,82,,,N,N,False
-1966,Indians,0.238,0.123,11.1,3.2,23.5,AL,81,81,,,N,N,False
-1976,Expos/Nationals,0.235,0.105,3.3,4.1,7.5,NL,55,107,N,,N,N,False
-1971,Brewers,0.229,0.1,12.6,3.6,70.0,AL,69,92,N,,N,N,False
 1989,Dodgers,0.24,0.099,14.0,3.3,36.1,NL,77,83,N,,N,N,False
 1988,Cardinals,0.249,0.088,14.2,5.3,30.3,NL,76,86,N,,N,N,False
-1976,Angels,0.235,0.083,9.2,4.0,-18.2,AL,76,86,N,,N,N,False
-1965,Dodgers,0.245,0.091,25.6,4.9,100.0,NL,97,65,,,Y,Y,False
 2012,Mariners,0.234,0.135,12.0,4.6,5.1,AL,75,87,N,N,N,N,False
 1992,Angels,0.243,0.094,1.8,4.4,-8.9,AL,72,90,N,,N,N,False
-1964,Angels,0.242,0.102,14.9,3.4,89.2,AL,82,80,,,N,N,False
-1982,Astros,0.247,0.102,14.1,5.2,21.2,NL,77,85,N,,N,N,False
-1965,Astros,0.237,0.103,7.5,4.4,-31.7,NL,65,97,,,N,N,False
-1972,Brewers,0.235,0.093,15.6,3.2,58.9,AL,65,91,N,,N,N,False
-1985,Giants,0.233,0.115,7.7,4.1,-6.3,NL,62,100,N,,N,N,False
 2011,Padres,0.237,0.112,17.1,5.4,50.0,NL,71,91,N,N,N,N,False
 1988,Braves,0.242,0.105,1.5,4.0,-29.6,NL,54,106,N,,N,N,False
-1983,Mets,0.241,0.103,9.0,4.6,37.6,NL,68,94,N,,N,N,False
-1972,Expos/Nationals,0.234,0.092,9.6,3.3,49.5,NL,70,86,N,,N,N,False
-1981,Twins,0.24,0.098,-1.3,4.2,-33.3,AL,41,68,N,,N,N,False
-1964,Mets,0.246,0.102,8.2,3.4,-9.2,NL,53,109,,,N,N,False
-1964,Dodgers,0.25,0.09,19.3,5.0,40.8,NL,80,82,,,N,N,False
-1966,Mets,0.24,0.103,6.0,3.9,-8.7,NL,66,95,,,N,N,False
-1971,Padres,0.233,0.1,6.2,3.6,-14.0,NL,61,100,N,,N,N,False
-1968,Phillies,0.233,0.1,12.7,3.5,-28.9,NL,76,86,,,N,N,False
 1986,Cardinals,0.236,0.09,19.0,6.0,141.0,NL,79,82,N,,N,N,False
-1965,Angels,0.239,0.102,15.2,4.4,63.7,AL,75,87,,,N,N,False
-1967,Dodgers,0.236,0.096,13.3,3.7,-17.1,NL,73,89,,,N,N,False
 2010,Mariners,0.236,0.104,4.5,4.2,-12.3,AL,61,101,N,N,N,N,False
-1972,Angels,0.242,0.089,15.2,3.5,33.4,AL,75,80,N,,N,N,False
-1972,Indians,0.234,0.095,11.2,2.9,79.0,AL,72,84,N,,N,N,False
-1967,Athletics,0.233,0.097,9.8,5.0,31.2,AL,62,99,,,N,N,False
-1981,Blue Jays,0.226,0.104,-1.9,3.9,-6.5,AL,37,69,N,,N,N,False
 2011,Mariners,0.233,0.115,5.7,4.4,-14.2,AL,67,95,N,N,N,N,False
 2014,Padres,0.226,0.115,8.5,4.3,37.2,NL,77,85,N,N,N,N,False
-1968,Indians,0.234,0.094,14.9,4.6,64.9,AL,86,75,,,N,N,False
-1969,Angels,0.23,0.089,6.8,3.5,57.3,AL,71,91,N,,N,N,False
-1971,Angels,0.231,0.098,10.4,3.6,50.8,AL,76,86,N,,N,N,False
-1968,Yankees,0.214,0.103,14.8,4.3,28.3,AL,83,79,,,N,N,False
-1972,Padres,0.227,0.106,2.3,4.2,-41.6,NL,58,95,N,,N,N,False
-1966,Athletics,0.236,0.1,8.9,5.6,53.4,AL,74,86,,,N,N,False
-1968,Astros,0.231,0.086,6.4,3.2,-73.3,NL,72,90,,,N,N,False
-1969,Padres,0.225,0.105,3.2,3.4,-1.9,NL,52,110,N,,N,N,False
-1967,Yankees,0.225,0.092,9.0,3.4,7.7,AL,72,90,,,N,N,False
-1968,Angels,0.227,0.091,15.0,3.6,54.6,AL,67,95,,,N,N,False
-1966,White Sox,0.231,0.1,18.1,5.0,96.7,AL,83,79,,,N,N,False
 2013,Marlins,0.231,0.104,-0.1,4.1,-1.5,NL,62,100,N,N,N,N,False
-1967,White Sox,0.226,0.096,17.6,4.3,109.8,AL,89,73,,,N,N,False
-1968,Dodgers,0.23,0.089,16.1,3.7,-0.7,NL,76,86,,,N,N,False
-1967,Mets,0.238,0.087,4.3,3.3,-4.7,NL,61,101,,,N,N,False
-1968,Mets,0.228,0.087,13.4,3.7,36.6,NL,73,89,,,N,N,False
-1968,White Sox,0.228,0.083,9.8,4.0,60.8,AL,67,95,,,N,N,False
-1965,Mets,0.221,0.106,-0.2,2.9,19.9,NL,50,112,,,N,N,False
-1963,Mets,0.219,0.096,-4.6,3.4,-38.3,NL,51,111,,,N,N,False
-1972,Rangers,0.217,0.073,1.4,4.0,1.0,AL,54,100,N,,N,N,False
-1964,Astros,0.229,0.086,-0.9,3.5,-27.0,NL,66,96,,,N,N,False
-1963,Astros,0.22,0.081,-0.7,3.5,-38.0,NL,66,96,,,N,N,False
-1963,Rangers,,,,,,AL,56,106,,,N,N,False
-1964,Rangers,,,,,,AL,62,100,,,N,N,False
-1965,Rangers,,,,,,AL,70,92,,,N,N,False
-1966,Rangers,,,,,,AL,71,88,,,N,N,False
-1967,Rangers,,,,,,AL,76,85,,,N,N,False
-1968,Rangers,,,,,,AL,65,96,,,N,N,False
-1969,Rangers,,,,,,AL,86,76,N,,N,N,False
-1970,Rangers,,,,,,AL,70,92,N,,N,N,False
-1971,Rangers,,,,,,AL,63,96,N,,N,N,False
